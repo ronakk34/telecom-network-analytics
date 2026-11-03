@@ -1,0 +1,549 @@
+ticket_id,customer_id,ticket_text,team,case_type,created_at
+TKT80000,SUB101492,"Hello team, I would like to downgrade my monthly pack This is the second time I am writing.",Billing,reassigned,2026-08-01 14:52:00
+TKT80001,SUB102145,"Hi, I want to change my plan before the next cycle My number is registered with you.",Plan_Change,standard,2026-08-02 13:38:00
+TKT80002,SUB100550,"Hello team, I want to cancel my connection at the end of the month Thanks.",Retention,standard,2026-08-05 19:35:00
+TKT80003,SUB102186,"Dear support, I inserted the new SIM but there is no service Awaiting your reply.",SIM_Activation,standard,2026-08-01 16:19:00
+TKT80004,SUB102541,"Good morning, There is no signal at my home in Chennai My number is registered with you and my bill is also a problem",SIM_Activation,reassigned,2026-08-02 08:22:00
+TKT80005,SUB101682,"Good morning, The refund for duplicate payment has not arrived Please respond quickly.",Billing,standard,2026-08-04 12:45:00
+TKT80006,SUB101743,"Hi, Can I add an international pack to my plan Kindly resolve.",Billing,reassigned,2026-08-02 21:38:00
+TKT80007,SUB103070,"Dear support, The refund for duplicate payment has not arrived Thanks and the signal is also a problem",Billing,noisy,2026-08-01 03:47:00
+TKT80008,SUB101651,"Hi, I want to cancel my connection at the end of the month My number is registered with you.",Retention,standard,2026-08-04 22:14:00
+TKT80009,SUB102172,"Hello team, Please switch my account from prepaid to postpaid Awaiting your reply.",Billing,reassigned,2026-08-04 03:37:00
+TKT80010,SUB100579,Please help. Cancel my postpaid connection immediately My number is registered with you.,Retention,standard,2026-08-05 13:44:00
+TKT80011,SUB101814,"Dear support, There is no signal at my home in Mumbai",Network,standard,2026-08-04 04:35:00
+TKT80012,SUB100011,"Hello team, What plans do you have with more data Kindly resolve.",Plan_Change,standard,2026-08-03 23:04:00
+TKT80013,SUB100800,"Hi, I was billed twice for the same recharge",Billing,standard,2026-08-04 21:21:00
+TKT80014,SUB103060,Urgent: poor coverage inside my office building,Network,standard,2026-08-04 11:43:00
+TKT80015,SUB102637,Urgent: There is a charge on my bill I do not recognise Please respond quickly.,Billing,standard,2026-08-04 07:16:00
+TKT80016,SUB100332,"Dear support, Give me a reason to stay or I am switching My number is registered with you.",Retention,standard,2026-08-02 16:15:00
+TKT80017,SUB101617,"Good morning, The eSIM QR code is not being accepted Awaiting your reply.",SIM_Activation,standard,2026-08-03 23:28:00
+TKT80018,SUB101684,"Hello team, There is a charge on bill I do not recognise This is the second time I am writing.",Billing,standard,2026-08-04 05:52:00
+TKT80019,SUB101705,Urgent: There is no signal at my home Pune Kindly resolve and activation is also a problem,Network,noisy,2026-08-02 09:10:00
+TKT80020,SUB101238,Slow internet and my bill went up too Awaiting your reply.,Billing,ambiguous,2026-08-02 20:46:00
+TKT80021,SUB101222,Urgent: I changed my plan but now the internet does not work My number is registered with you.,Network,ambiguous,2026-08-04 21:19:00
+TKT80022,SUB103193,"Hello team, The refund for my duplicate payment has not arrived This is the second time I am writing.",Plan_Change,reassigned,2026-08-05 14:59:00
+TKT80023,SUB101164,Urgent: My invoice is higher than usual this month Thanks.,Billing,standard,2026-08-04 19:58:00
+TKT80024,SUB100595,Please help. The connection keeps disconnecting every few minutes Please respond quickly.,Network,standard,2026-08-04 03:35:00
+TKT80025,SUB101404,"Dear support, Please switch my account from prepaid to postpaid Kindly resolve.",Plan_Change,standard,2026-08-05 18:39:00
+TKT80026,SUB101908,"Dear support, I inserted the new SIM but there no service Thanks.",SIM_Activation,standard,2026-08-05 06:19:00
+TKT80027,SUB102896,"Dear support, Can I add an international pack to my plan Kindly resolve.",Plan_Change,standard,2026-08-01 13:32:00
+TKT80028,SUB102439,"Dear support, I was billed twice for the same recharge My number is registered with you.",Billing,standard,2026-08-03 02:04:00
+TKT80029,SUB101733,"Dear support, Can I add an international pack to my plan Please respond quickly.",Plan_Change,standard,2026-08-03 17:50:00
+TKT80030,SUB101399,Urgent: The connection keeps disconnecting every few minutes Awaiting your reply.,Network,standard,2026-08-02 13:05:00
+TKT80031,SUB101087,Please help. Port-in is stuck and I am being billed for both numbers Please respond quickly.,SIM_Activation,ambiguous,2026-08-02 00:06:00
+TKT80032,SUB102098,"Hello team, My replacement SIM has not started working Thanks.",Network,reassigned,2026-08-05 20:32:00
+TKT80033,SUB102959,"Hi, I want to upgrade to a larger data plan Kindly resolve.",Plan_Change,standard,2026-08-03 01:04:00
+TKT80034,SUB102699,"Good morning, I am porting out unless you can offer something better",Retention,standard,2026-08-02 12:03:00
+TKT80035,SUB100632,"Hello team, Activation OTP is not arriving on my phone Please respond quickly.",Network,reassigned,2026-08-02 20:55:00
+TKT80036,SUB100432,Please help. Calls keep dropping the Kolkata area Please respond quickly.,Network,standard,2026-08-04 06:59:00
+TKT80037,SUB100276,"Hello team, Cancel my postpaid connection immediately Awaiting your reply.",Retention,standard,2026-08-03 18:43:00
+TKT80038,SUB101610,"Good morning, My new plan shows the wrong price on my bill Awaiting your reply.",Billing,ambiguous,2026-08-04 00:11:00
+TKT80039,SUB101271,"Good morning, Give me a reason to stay or I am switching Kindly resolve.",Retention,standard,2026-08-01 12:17:00
+TKT80040,SUB100749,"Dear support, Internet speed has dropped badly this week My number is registered with you.",Network,standard,2026-08-05 06:36:00
+TKT80041,SUB101240,"Hello team, Give me a reason to stay or I am switching",Retention,standard,2026-08-03 14:32:00
+TKT80042,SUB100536,Please help. Please switch my account from prepaid to postpaid Please respond quickly.,Billing,reassigned,2026-08-03 02:50:00
+TKT80043,SUB102538,"Dear support, What plans do you have with more data Please respond quickly.",Billing,reassigned,2026-08-05 07:28:00
+TKT80044,SUB100823,"Hello team, Please explain the extra amount on my invoice My number is registered with you and my new SIM is also a problem",Billing,noisy,2026-08-05 04:41:00
+TKT80045,SUB100069,Urgent: Port-in request is still showing as pending Awaiting your reply.,SIM_Activation,standard,2026-08-02 22:43:00
+TKT80046,SUB101916,Urgent: The refund for my duplicate payment has not arrived Kindly resolve.,Billing,standard,2026-08-05 03:14:00
+TKT80047,SUB101246,"Good morning, I want to cancel my connection at the end of the month My number is registered with you.",Retention,standard,2026-08-01 14:45:00
+TKT80048,SUB101230,Urgent: I am porting out unless you can offer something better Kindly resolve.,Billing,reassigned,2026-08-05 12:36:00
+TKT80049,SUB100568,Please help. I would like to downgrade my monthly pack Kindly resolve.,Plan_Change,standard,2026-08-05 14:14:00
+TKT80050,SUB102222,"Hello team, The offer charged me but my SIM is not active Thanks.",SIM_Activation,ambiguous,2026-08-01 23:03:00
+TKT80051,SUB100944,"Dear support, Activation OTP is not arriving on my phone My number is registered with you.",SIM_Activation,standard,2026-08-05 18:19:00
+TKT80052,SUB101039,"Dear support, Please switch my account from prepaid to postpaid This is the second time I am writing.",Billing,reassigned,2026-08-04 02:59:00
+TKT80053,SUB102975,Please help. The eSIM QR code is not being accepted Awaiting your reply.,SIM_Activation,standard,2026-08-04 15:30:00
+TKT80054,SUB101021,"Hi, My bill shows roaming charges I never used Awaiting your reply.",Billing,standard,2026-08-03 00:26:00
+TKT80055,SUB101868,"Hello team, connection keeps disconnecting every few minutes My number is registered with you.",Network,standard,2026-08-02 08:18:00
+TKT80056,SUB100758,My replacement SIM has not started working Awaiting your reply.,SIM_Activation,standard,2026-08-05 17:51:00
+TKT80057,SUB100446,I would like to downgrade my monthly pack Awaiting your reply.,Plan_Change,standard,2026-08-03 02:58:00
+TKT80058,SUB101810,"Dear support, My new SIM is not activating, please help Awaiting your reply.",SIM_Activation,standard,2026-08-02 05:48:00
+TKT80059,SUB101179,"Dear support, Activation OTP not arriving on my phone My number is registered with you.",SIM_Activation,standard,2026-08-01 00:32:00
+TKT80060,SUB102992,"Please close account, I am moving to another operator My number is registered with you.",Retention,standard,2026-08-01 15:53:00
+TKT80061,SUB100431,Calls keep dropping in the Chennai area,Network,standard,2026-08-03 15:09:00
+TKT80062,SUB102937,The refund for my duplicate payment has not arrived This is the second time I am writing.,Billing,standard,2026-08-01 17:36:00
+TKT80063,SUB101312,"Dear support, My bill shows roaming charges I never used Kindly resolve.",Plan_Change,reassigned,2026-08-04 04:55:00
+TKT80064,SUB100129,"Hi, My bill shows roaming charges I never used This is the second time I am writing.",Billing,standard,2026-08-01 14:18:00
+TKT80065,SUB100829,Please help. There is no signal at my home in Bengaluru Kindly resolve.,Network,standard,2026-08-02 06:16:00
+TKT80066,SUB103103,"Hello team, I want to cancel because the signal in Pune is terrible Please respond quickly.",Retention,ambiguous,2026-08-05 16:28:00
+TKT80067,SUB102626,"My new SIM is not activating, please help This is the second time I am writing.",SIM_Activation,standard,2026-08-04 06:17:00
+TKT80068,SUB102397,"Dear support, Cancel my postpaid connection immediately My number is registered with you.",Retention,standard,2026-08-01 09:00:00
+TKT80069,SUB101913,Please help. The eSIM QR code is not being accepted Please respond quickly.,Network,reassigned,2026-08-05 09:43:00
+TKT80070,SUB100669,"Dear support, I would like to downgrade my monthly pack My number is registered with you.",Plan_Change,standard,2026-08-04 01:46:00
+TKT80071,SUB100532,"Dear support, 4G is not working since yesterday morning Thanks.",Network,standard,2026-08-02 16:42:00
+TKT80072,SUB101125,"Hi, Calls keep dropping in the Mumbai area Kindly resolve.",Network,standard,2026-08-02 19:07:00
+TKT80073,SUB101738,"Good morning, There is no signal at my home in Hyderabad Please respond quickly.",Network,standard,2026-08-04 20:38:00
+TKT80074,SUB100466,"Dear support, I would like to downgrade my monthly pack Awaiting your reply.",Plan_Change,standard,2026-08-04 18:41:00
+TKT80075,SUB101553,"Hello team, Please explain the extra amount on my invoice My number is registered with you.",Billing,standard,2026-08-02 14:21:00
+TKT80076,SUB103102,"Hi, Activation OTP is not arriving on my phone This is the second time I am writing.",SIM_Activation,standard,2026-08-01 20:16:00
+TKT80077,SUB100645,Please help. I was billed twice for the same recharge,Billing,standard,2026-08-04 14:40:00
+TKT80078,SUB100818,"Please help. Please close my account, I am moving to another operator Awaiting your reply.",Retention,standard,2026-08-03 04:57:00
+TKT80079,SUB102844,"Hello team, I want to upgrade to a larger data plan My number is registered with you.",Plan_Change,standard,2026-08-04 21:36:00
+TKT80080,SUB101524,"Hello team, I want to upgrade to a larger data plan Awaiting your reply.",Plan_Change,standard,2026-08-01 19:31:00
+TKT80081,SUB100388,Urgent: Internet speed has dropped badly this week Awaiting your reply.,Network,standard,2026-08-03 21:38:00
+TKT80082,SUB103061,"Dear support, My replacement SIM has not started working Kindly resolve.",SIM_Activation,standard,2026-08-05 16:28:00
+TKT80083,SUB100845,"Hello team, Calls keep dropping in the Noida area My number is registered with you.",Network,standard,2026-08-05 09:23:00
+TKT80084,SUB101330,"Dear support, 4G is not working since yesterday morning This is the second time I am writing.",SIM_Activation,reassigned,2026-08-04 10:47:00
+TKT80085,SUB101066,Please help. The connection keeps disconnecting every few minutes This is second time I am writing.,Network,standard,2026-08-02 18:43:00
+TKT80086,SUB102990,"Dear support, There is no signal at my home in Chennai Please respond quickly.",Network,standard,2026-08-02 07:13:00
+TKT80087,SUB102166,"Hi, I want to upgrade to a larger data plan",Billing,reassigned,2026-08-04 19:54:00
+TKT80088,SUB102374,"Dear support, What plans do you have with more data My number is registered with you.",Billing,reassigned,2026-08-04 06:09:00
+TKT80089,SUB101642,"Dear support, There is a charge on my bill I do not recognise Kindly resolve.",Billing,standard,2026-08-01 05:27:00
+TKT80090,SUB100363,Urgent: Activation OTP is not arriving on my phone,SIM_Activation,standard,2026-08-01 05:09:00
+TKT80091,SUB103145,Please explain the extra amount on my invoice My number is registered with you.,Billing,standard,2026-08-03 18:01:00
+TKT80092,SUB101631,Please switch my account from prepaid to postpaid My number is registered with you and the network is also a problem,Plan_Change,noisy,2026-08-04 11:28:00
+TKT80093,SUB100587,Please help. What plans do you have with more data,Plan_Change,standard,2026-08-03 21:04:00
+TKT80094,SUB101974,Urgent: 4G is not working since yesterday morning Awaiting your reply.,Network,standard,2026-08-05 00:27:00
+TKT80095,SUB100532,"Hi, I am porting out unless you can offer something better Awaiting your reply.",Retention,standard,2026-08-04 08:29:00
+TKT80096,SUB101081,Please help. Activation OTP is not arriving on my phone Kindly resolve.,SIM_Activation,standard,2026-08-01 01:01:00
+TKT80097,SUB100223,"Good morning, Very poor coverage inside my office building This is second time I am writing.",Network,standard,2026-08-05 17:25:00
+TKT80098,SUB101229,"Hello team, Give me a reason to stay or I am switching Kindly resolve.",Retention,standard,2026-08-01 18:40:00
+TKT80099,SUB102286,"Dear support, 4G is not working since yesterday morning Thanks and my plan is also a problem",Network,noisy,2026-08-02 05:35:00
+TKT80100,SUB101899,Please help. 4G is not working since yesterday morning Please respond quickly and my plan is also a problem,Network,noisy,2026-08-05 04:02:00
+TKT80101,SUB102934,"Good morning, I want to upgrade to a larger data plan number is registered with you.",Plan_Change,standard,2026-08-03 16:42:00
+TKT80102,SUB101069,I would like to downgrade my monthly pack Please respond quickly.,Plan_Change,standard,2026-08-05 23:26:00
+TKT80103,SUB102506,"Hi, I am porting out unless you can offer something better Kindly resolve.",Retention,standard,2026-08-02 23:17:00
+TKT80104,SUB101499,4G is not working since yesterday morning Please respond quickly.,Network,standard,2026-08-01 22:12:00
+TKT80105,SUB101391,Urgent: Please switch my account from prepaid to postpaid Awaiting your reply.,Billing,reassigned,2026-08-02 13:30:00
+TKT80106,SUB102674,Please help. There is a charge on my bill I do not recognise,Billing,standard,2026-08-04 02:09:00
+TKT80107,SUB101624,Please help. The eSIM QR code is not being accepted Awaiting your reply and the signal is also a problem,SIM_Activation,noisy,2026-08-04 00:33:00
+TKT80108,SUB101658,"Hello team, My bill shows roaming charges I never used This is the second time I am writing.",Billing,standard,2026-08-02 05:07:00
+TKT80109,SUB101884,"Good morning, My replacement SIM has not started working Awaiting your reply.",SIM_Activation,standard,2026-08-02 08:48:00
+TKT80110,SUB100718,"Please help. I have decided to leave, what is the disconnection process Please respond quickly.",Retention,standard,2026-08-01 22:43:00
+TKT80111,SUB100672,"Please close my account, I am moving to another operator and the bill is also a problem",Retention,noisy,2026-08-01 03:20:00
+TKT80112,SUB101069,"Hello team, Can I add an international pack to my plan Kindly resolve.",Plan_Change,standard,2026-08-02 02:00:00
+TKT80113,SUB102681,"Hi, My bill shows roaming charges I never used Awaiting your reply and my plan is also a problem",Billing,noisy,2026-08-02 08:48:00
+TKT80114,SUB101625,Please help. What plans do you have with more data Thanks.,Plan_Change,standard,2026-08-03 06:16:00
+TKT80115,SUB101367,Urgent: Port-in request is still showing as pending and the charges is also a problem,SIM_Activation,noisy,2026-08-05 03:19:00
+TKT80116,SUB102718,Please help. Cancel my postpaid connection immediately Please respond quickly.,Retention,standard,2026-08-04 17:24:00
+TKT80117,SUB102665,"Hello team, The connection keeps disconnecting every few minutes and activation is also a problem",Network,noisy,2026-08-04 11:48:00
+TKT80118,SUB102774,The eSIM QR code is not being accepted Kindly resolve.,SIM_Activation,standard,2026-08-05 20:53:00
+TKT80119,SUB100676,"Hi, The refund for my duplicate payment has not arrived My number is registered with you.",Billing,standard,2026-08-01 08:59:00
+TKT80120,SUB101910,Urgent: My new plan shows the wrong price on my bill Thanks.,Billing,ambiguous,2026-08-05 03:40:00
+TKT80121,SUB100525,"Good morning, Please close my account, I am moving to another operator My number is registered with you.",Retention,standard,2026-08-04 19:34:00
+TKT80122,SUB103142,Urgent: There is no signal at my home in Bengaluru,Network,standard,2026-08-02 09:54:00
+TKT80123,SUB103148,"Hello team, My bill shows roaming charges I never used Kindly resolve.",Billing,standard,2026-08-05 18:17:00
+TKT80124,SUB103045,"Good morning, My bill shows roaming charges I never used Please respond quickly.",Billing,standard,2026-08-01 01:00:00
+TKT80125,SUB100720,Please help. The refund for my duplicate payment has not arrived This is the second time I am writing.,Billing,standard,2026-08-03 07:22:00
+TKT80126,SUB101324,"Good morning, Give me a reason to stay or I am switching Thanks and the signal is also a problem",Retention,noisy,2026-08-04 11:15:00
+TKT80127,SUB100755,Urgent: I want to cancel my connection at the end of the month Thanks.,Retention,standard,2026-08-02 12:27:00
+TKT80128,SUB102799,I want cancel my connection at the end of the month Please respond quickly.,Retention,standard,2026-08-04 07:09:00
+TKT80129,SUB102796,"Hello team, Activation OTP is not arriving on phone This is the second time I am writing.",SIM_Activation,standard,2026-08-02 17:33:00
+TKT80130,SUB102688,"Urgent: My new SIM is not activating, please help",SIM_Activation,standard,2026-08-05 22:26:00
+TKT80131,SUB101109,My replacement SIM has not started working Please respond quickly.,SIM_Activation,standard,2026-08-04 07:55:00
+TKT80132,SUB101612,"Good morning, I inserted the new SIM but there is no service My number is registered with you.",SIM_Activation,standard,2026-08-03 23:51:00
+TKT80133,SUB100142,There is a charge on my bill I do not recognise Kindly resolve.,Billing,standard,2026-08-05 03:49:00
+TKT80134,SUB102897,"Good morning, My replacement SIM has not started working This is the second time I am writing.",Network,reassigned,2026-08-02 17:44:00
+TKT80135,SUB102941,"Please help. My new SIM is not activating, please help Please respond quickly.",SIM_Activation,standard,2026-08-01 17:41:00
+TKT80136,SUB102417,Please switch my account from prepaid to postpaid My number is registered with you.,Plan_Change,standard,2026-08-03 14:20:00
+TKT80137,SUB101066,"Hi, I was billed twice for same recharge Please respond quickly.",Billing,standard,2026-08-03 02:57:00
+TKT80138,SUB101242,Please help. There is a charge on my bill I do not recognise Kindly resolve.,Plan_Change,reassigned,2026-08-03 15:45:00
+TKT80139,SUB102517,Cancel my postpaid connection immediately This is the second time I am writing.,Retention,standard,2026-08-05 05:25:00
+TKT80140,SUB102114,Urgent: I would like to downgrade my monthly pack,Plan_Change,standard,2026-08-03 01:47:00
+TKT80141,SUB100917,"Dear support, 4G is not working since yesterday morning This is the second time I am writing and my plan is also a problem",Network,noisy,2026-08-02 12:51:00
+TKT80142,SUB100006,Please help. There is a charge on my bill I do not recognise Awaiting your reply.,Billing,standard,2026-08-03 22:08:00
+TKT80143,SUB103129,"Hello team, The connection keeps disconnecting every few minutes Kindly resolve.",Network,standard,2026-08-02 04:23:00
+TKT80144,SUB103050,The refund for my duplicate payment has not arrived My number is registered with you.,Plan_Change,reassigned,2026-08-02 18:31:00
+TKT80145,SUB102929,Calls keep dropping in Delhi area Please respond quickly.,Network,standard,2026-08-05 11:42:00
+TKT80146,SUB100690,Give me a reason to stay or I am switching Awaiting your reply.,Retention,standard,2026-08-01 10:41:00
+TKT80147,SUB102355,"Dear support, Please explain the extra amount on my invoice This is the second time I am writing.",Billing,standard,2026-08-02 00:56:00
+TKT80148,SUB102597,"Dear support, I want to change my plan before the next cycle Thanks.",Plan_Change,standard,2026-08-01 14:13:00
+TKT80149,SUB102171,Urgent: I want to upgrade to a larger data plan Please respond quickly.,Plan_Change,standard,2026-08-02 01:13:00
+TKT80150,SUB103186,Please help. 4G is not working since yesterday morning This is the second time I am writing.,Network,standard,2026-08-02 19:40:00
+TKT80151,SUB101261,"Hello team, 4G is not working since yesterday morning Thanks.",Network,standard,2026-08-03 10:54:00
+TKT80152,SUB100146,Urgent: The refund for my duplicate payment has not arrived My number is registered with you.,Billing,standard,2026-08-02 00:45:00
+TKT80153,SUB102703,"Good morning, Please switch my account from prepaid to postpaid Please respond quickly.",Plan_Change,standard,2026-08-04 19:50:00
+TKT80154,SUB102909,"Dear support, Port-in request is still showing as pending Thanks.",SIM_Activation,standard,2026-08-03 17:10:00
+TKT80155,SUB100884,"Hello team, The eSIM QR code is not being accepted This is second time I am writing.",SIM_Activation,standard,2026-08-05 07:06:00
+TKT80156,SUB100287,Can I add an international pack to my plan and my SIM is also a problem,Plan_Change,noisy,2026-08-03 17:54:00
+TKT80157,SUB101126,"Dear support, Calls keep dropping in the Chennai area My number is registered with you.",Network,standard,2026-08-03 03:51:00
+TKT80158,SUB101577,"Hi, Please close my account, I am moving to another operator Thanks.",Retention,standard,2026-08-05 21:57:00
+TKT80159,SUB102426,"Hi, Give me a reason to stay or I am switching Please respond quickly.",Retention,standard,2026-08-01 15:09:00
+TKT80160,SUB102703,Urgent: I want to cancel my connection at the end of month,Billing,reassigned,2026-08-04 22:47:00
+TKT80161,SUB101431,"Dear support, I am porting out unless you can offer something better My number is registered with you.",Retention,standard,2026-08-02 01:24:00
+TKT80162,SUB102626,What plans do you have with more data Thanks.,Plan_Change,standard,2026-08-01 03:40:00
+TKT80163,SUB102479,I want to cancel my connection at the end of the month Kindly resolve.,Retention,standard,2026-08-04 13:47:00
+TKT80164,SUB102661,"Good morning, The connection keeps disconnecting every few minutes Thanks.",SIM_Activation,reassigned,2026-08-04 23:30:00
+TKT80165,SUB103144,"Good morning, My bill shows roaming charges I never used Please respond quickly and my plan is also a problem",Billing,noisy,2026-08-03 04:53:00
+TKT80166,SUB102187,"Hi, There is a charge on my bill I do not recognise Thanks.",Billing,standard,2026-08-03 02:56:00
+TKT80167,SUB102812,"Hi, I want to change my plan before the next cycle Thanks.",Plan_Change,standard,2026-08-04 06:04:00
+TKT80168,SUB100095,Urgent: Give me a reason to stay or I am switching This is the second time I am writing.,Retention,standard,2026-08-05 22:25:00
+TKT80169,SUB102222,Please help. Port-in request is still showing as pending This is the second time I am writing.,SIM_Activation,standard,2026-08-05 04:56:00
+TKT80170,SUB102422,"Hi, 4G is not working since yesterday morning Awaiting your reply.",Network,standard,2026-08-04 12:19:00
+TKT80171,SUB100244,"Good morning, I want to change my plan before the next cycle",Plan_Change,standard,2026-08-01 21:53:00
+TKT80172,SUB100588,Urgent: There is no signal at my home Pune Kindly resolve.,Network,standard,2026-08-01 01:01:00
+TKT80173,SUB100665,"Urgent: My new SIM is not activating, please help This is the second time I am writing.",SIM_Activation,standard,2026-08-05 22:59:00
+TKT80174,SUB102339,"Dear support, Slow internet and my bill went up too My number is registered with you.",Billing,ambiguous,2026-08-01 14:53:00
+TKT80175,SUB100062,I want to upgrade to a larger data plan My number is registered with you.,Billing,reassigned,2026-08-02 18:50:00
+TKT80176,SUB102583,"Dear support, The offer charged me but my SIM is not active Please respond quickly.",SIM_Activation,ambiguous,2026-08-02 12:02:00
+TKT80177,SUB100263,"Hi, The connection keeps disconnecting every few minutes Kindly resolve.",Network,standard,2026-08-02 18:16:00
+TKT80178,SUB101608,"Dear support, Slow internet and my bill went up too Please respond quickly.",Billing,ambiguous,2026-08-05 07:40:00
+TKT80179,SUB100059,"Dear support, Port-in is stuck and I am being billed for both numbers Thanks.",SIM_Activation,ambiguous,2026-08-04 06:26:00
+TKT80180,SUB101491,"Good morning, Give me a reason to stay or I am switching Thanks.",Retention,standard,2026-08-05 11:54:00
+TKT80181,SUB102317,"Hello team, Internet speed has dropped badly this week",Network,standard,2026-08-04 23:11:00
+TKT80182,SUB103027,"Hi, I want to upgrade to a larger data plan Please respond quickly.",Plan_Change,standard,2026-08-04 16:02:00
+TKT80183,SUB102616,My bill shows roaming charges I never used number is registered with you.,Billing,standard,2026-08-01 18:18:00
+TKT80184,SUB102113,"Dear support, The offer charged me but my SIM is not active Please respond quickly.",SIM_Activation,ambiguous,2026-08-05 04:07:00
+TKT80185,SUB101122,"Hello team, I have decided to leave, what is the disconnection process My number is registered with you.",Retention,standard,2026-08-05 07:11:00
+TKT80186,SUB100765,"Dear support, Give me a reason to stay or I am switching Thanks.",Retention,standard,2026-08-04 04:45:00
+TKT80187,SUB102024,Please help. I would like to downgrade my monthly pack Thanks.,Plan_Change,standard,2026-08-01 10:58:00
+TKT80188,SUB100195,"Good morning, Port-in request is still showing as pending Kindly resolve.",SIM_Activation,standard,2026-08-01 00:43:00
+TKT80189,SUB100534,"Good morning, Calls keep dropping in the Hyderabad area Kindly resolve.",Network,standard,2026-08-01 03:31:00
+TKT80190,SUB102174,Urgent: The offer charged me but my SIM is not active Thanks.,SIM_Activation,ambiguous,2026-08-02 02:03:00
+TKT80191,SUB101305,"Hi, I would like to downgrade my monthly pack Awaiting your reply.",Plan_Change,standard,2026-08-05 11:27:00
+TKT80192,SUB102549,Please help. I inserted the new SIM but there is no service Kindly resolve.,SIM_Activation,standard,2026-08-02 07:06:00
+TKT80193,SUB101358,"Hello team, I want to upgrade to a larger data plan Kindly resolve.",Plan_Change,standard,2026-08-02 10:40:00
+TKT80194,SUB101726,"Hi, Port-in request is still showing as pending This is the second time I am writing.",SIM_Activation,standard,2026-08-02 16:07:00
+TKT80195,SUB102496,"Hello team, I want to upgrade to a larger data plan Awaiting your reply.",Plan_Change,standard,2026-08-04 08:02:00
+TKT80196,SUB101167,"Hi, Cancel my postpaid connection immediately Kindly resolve.",Retention,standard,2026-08-05 00:51:00
+TKT80197,SUB101953,"Dear support, Calls keep dropping in the Delhi area Please respond quickly.",Network,standard,2026-08-02 18:38:00
+TKT80198,SUB102472,Internet speed has dropped badly week Kindly resolve.,Network,standard,2026-08-02 00:48:00
+TKT80199,SUB101877,Urgent: Very poor coverage inside my office building Kindly resolve.,SIM_Activation,reassigned,2026-08-04 12:16:00
+TKT80200,SUB101147,My replacement SIM has not started working Kindly resolve.,SIM_Activation,standard,2026-08-03 11:28:00
+TKT80201,SUB102753,Urgent: I am porting out unless you can offer something better This is the second time I am writing.,Retention,standard,2026-08-04 00:10:00
+TKT80202,SUB102596,Urgent: What plans do you have with more data Kindly resolve.,Plan_Change,standard,2026-08-02 18:18:00
+TKT80203,SUB103083,I inserted the new SIM but there is no service This is the second time I am writing.,SIM_Activation,standard,2026-08-03 06:27:00
+TKT80204,SUB101868,"Hi, Cancel my postpaid connection immediately Thanks.",Retention,standard,2026-08-04 21:16:00
+TKT80205,SUB100219,Please explain the extra amount on my invoice,Billing,standard,2026-08-02 15:13:00
+TKT80206,SUB102837,"Hello team, The connection keeps disconnecting every few minutes Please respond quickly.",Network,standard,2026-08-04 01:46:00
+TKT80207,SUB102546,"Dear support, Can I add an international pack to my plan Please respond quickly.",Plan_Change,standard,2026-08-01 17:18:00
+TKT80208,SUB101457,"Dear support, Cancel my postpaid connection immediately Kindly resolve.",Retention,standard,2026-08-04 15:56:00
+TKT80209,SUB101009,"Good morning, 4G is not working since yesterday morning Kindly resolve.",Network,standard,2026-08-03 03:56:00
+TKT80210,SUB101907,Urgent: There is a charge on my bill I do not recognise Please respond quickly and the signal is also a problem,Billing,noisy,2026-08-02 06:19:00
+TKT80211,SUB100829,"Good morning, I want to cancel because the signal in Hyderabad is terrible Kindly resolve.",Retention,ambiguous,2026-08-02 10:36:00
+TKT80212,SUB101898,Please help. I was billed twice for the same recharge Thanks.,Plan_Change,reassigned,2026-08-01 17:03:00
+TKT80213,SUB101155,"Good morning, The refund for my duplicate payment has not arrived My number is registered with you.",Billing,standard,2026-08-02 01:33:00
+TKT80214,SUB101709,"Hi, Slow internet and my bill went up too Kindly resolve.",Billing,ambiguous,2026-08-03 11:20:00
+TKT80215,SUB100070,Please help. Give me a reason to stay or I am switching Kindly resolve.,Retention,standard,2026-08-02 11:28:00
+TKT80216,SUB100987,Please help. The connection keeps disconnecting every few minutes Thanks.,Network,standard,2026-08-05 12:01:00
+TKT80217,SUB100214,Urgent: I want to change my plan before the next cycle Thanks and my SIM is also a problem,Plan_Change,noisy,2026-08-05 12:13:00
+TKT80218,SUB100098,"Hello team, I am porting out unless you can offer something better Awaiting your reply.",Retention,standard,2026-08-02 19:29:00
+TKT80219,SUB102080,Please help. I want to cancel because the signal in Mumbai is terrible,Retention,ambiguous,2026-08-02 07:50:00
+TKT80220,SUB100028,"Hello team, 4G is not working since yesterday morning Thanks and activation is also a problem",Network,noisy,2026-08-01 01:17:00
+TKT80221,SUB102085,"Good morning, Activation OTP is not arriving on my phone This is the second time I am writing.",SIM_Activation,standard,2026-08-02 21:21:00
+TKT80222,SUB101369,"Dear support, Port-in request is still showing as pending Thanks.",SIM_Activation,standard,2026-08-01 20:23:00
+TKT80223,SUB103141,4G is not working since yesterday morning My number is registered with you.,Network,standard,2026-08-04 12:11:00
+TKT80224,SUB101474,"Dear support, There is a charge on my bill I do not recognise Awaiting your reply.",Billing,standard,2026-08-01 06:27:00
+TKT80225,SUB102581,"Please close my account, I am moving to another operator",Billing,reassigned,2026-08-04 18:01:00
+TKT80226,SUB100569,The refund for duplicate payment has not arrived My number is registered with you.,Billing,standard,2026-08-04 02:05:00
+TKT80227,SUB100725,Urgent: Port-in request is still showing as pending,SIM_Activation,standard,2026-08-03 18:30:00
+TKT80228,SUB102874,"Hello team, What plans do you have with more data My number is registered with you.",Plan_Change,standard,2026-08-01 08:08:00
+TKT80229,SUB102718,I was billed twice for same recharge Please respond quickly.,Billing,standard,2026-08-01 11:25:00
+TKT80230,SUB101375,"Hello team, I inserted the new SIM but there is no service",SIM_Activation,standard,2026-08-03 06:33:00
+TKT80231,SUB103016,"Hello team, The refund for my duplicate payment has not arrived Kindly resolve.",Billing,standard,2026-08-01 06:17:00
+TKT80232,SUB101899,"Hi, The eSIM QR code is not being accepted and the charges is also a problem",SIM_Activation,noisy,2026-08-05 10:36:00
+TKT80233,SUB102289,Urgent: I want to upgrade to a larger data plan Please respond quickly and my SIM is also a problem,Plan_Change,noisy,2026-08-01 19:04:00
+TKT80234,SUB101988,Please help. Port-in request is still showing as pending Awaiting your reply.,Network,reassigned,2026-08-03 03:46:00
+TKT80235,SUB101723,"Hello team, Activation OTP is not arriving on my phone Please respond quickly.",SIM_Activation,standard,2026-08-02 19:27:00
+TKT80236,SUB102914,Please help. My bill shows roaming charges I never used This is the second time I am writing.,Billing,standard,2026-08-04 22:37:00
+TKT80237,SUB101431,"Good morning, Calls keep dropping in the Bengaluru area Kindly resolve.",Network,standard,2026-08-04 04:52:00
+TKT80238,SUB101652,Please help. I inserted the new SIM but there is no service My number is registered with you.,SIM_Activation,standard,2026-08-01 04:14:00
+TKT80239,SUB101712,"Hi, I am porting out unless you can offer something better Awaiting your reply and the bill is also a problem",Retention,noisy,2026-08-05 09:47:00
+TKT80240,SUB102141,Urgent: I want to cancel my connection at the end of the month Thanks.,Billing,reassigned,2026-08-01 03:03:00
+TKT80241,SUB103021,"Dear support, I want to upgrade to a larger data plan Awaiting your reply.",Plan_Change,standard,2026-08-05 05:22:00
+TKT80242,SUB100052,"Good morning, Give me a reason to stay or I am switching Thanks.",Retention,standard,2026-08-02 10:31:00
+TKT80243,SUB100604,"Hi, Internet speed has dropped badly this week My number registered with you.",Network,standard,2026-08-03 19:55:00
+TKT80244,SUB101267,"Good morning, What plans do you have with more data Thanks.",Plan_Change,standard,2026-08-04 07:39:00
+TKT80245,SUB101690,"Hello team, The eSIM QR code is not being accepted Awaiting your reply.",SIM_Activation,standard,2026-08-05 01:09:00
+TKT80246,SUB102670,"Good morning, Please explain the extra amount on my invoice",Billing,standard,2026-08-04 18:13:00
+TKT80247,SUB102410,Please help. Internet speed has dropped badly this week Thanks.,Network,standard,2026-08-02 16:34:00
+TKT80248,SUB100107,"Please close my account, I am moving to another operator My number is registered with you.",Retention,standard,2026-08-01 15:37:00
+TKT80249,SUB102513,"Dear support, The connection keeps disconnecting every few minutes Kindly resolve.",Network,standard,2026-08-03 12:39:00
+TKT80250,SUB100362,"Hi, I inserted the new SIM but there no service Thanks.",SIM_Activation,standard,2026-08-01 05:36:00
+TKT80251,SUB102948,"Dear support, The refund for my duplicate payment has not arrived This is the second time I am writing.",Billing,standard,2026-08-03 20:10:00
+TKT80252,SUB100982,"Good morning, Please explain the extra amount on my invoice",Billing,standard,2026-08-03 04:08:00
+TKT80253,SUB101780,"Hi, new SIM is not activating, please help Kindly resolve.",SIM_Activation,standard,2026-08-05 16:49:00
+TKT80254,SUB101956,Please help. I was billed twice for the same recharge Awaiting your reply.,Billing,standard,2026-08-01 08:58:00
+TKT80255,SUB101237,"Good morning, The offer charged me but my SIM is not active Kindly resolve.",SIM_Activation,ambiguous,2026-08-02 10:52:00
+TKT80256,SUB100844,Please help. Cancel my postpaid connection immediately Kindly resolve.,Retention,standard,2026-08-05 22:36:00
+TKT80257,SUB102863,Please help. I would like to downgrade my monthly pack This is the second time I am writing.,Plan_Change,standard,2026-08-02 03:51:00
+TKT80258,SUB100660,Urgent: Very poor coverage inside my office building Awaiting your reply.,SIM_Activation,reassigned,2026-08-02 02:07:00
+TKT80259,SUB101634,"Hi, My new plan shows the wrong price on my bill Please respond quickly.",Billing,ambiguous,2026-08-03 07:32:00
+TKT80260,SUB100638,"Dear support, 4G is not working since yesterday morning Kindly resolve.",Network,standard,2026-08-01 22:33:00
+TKT80261,SUB100309,"Hello team, Port-in is stuck and I am being billed for both numbers Kindly resolve.",SIM_Activation,ambiguous,2026-08-03 08:38:00
+TKT80262,SUB100376,"Hello team, Please switch my account from prepaid to postpaid This is the second time I am writing.",Plan_Change,standard,2026-08-04 03:48:00
+TKT80263,SUB101496,"Good morning, I am porting out unless you can offer something better",Billing,reassigned,2026-08-02 14:39:00
+TKT80264,SUB102204,I want to cancel because the signal in Noida is terrible Please respond quickly.,Retention,ambiguous,2026-08-04 14:56:00
+TKT80265,SUB101350,Internet speed has dropped badly this week My number is registered with you.,Network,standard,2026-08-05 08:27:00
+TKT80266,SUB103005,Urgent: replacement SIM has not started working Awaiting your reply.,SIM_Activation,standard,2026-08-05 09:09:00
+TKT80267,SUB101740,"Hello team, I was billed twice for the same recharge This is the second time I am writing.",Billing,standard,2026-08-02 11:55:00
+TKT80268,SUB102966,I would like to downgrade my monthly pack Thanks.,Plan_Change,standard,2026-08-05 00:20:00
+TKT80269,SUB101457,Please help. Please explain the extra amount on my invoice This is the second time I am writing.,Billing,standard,2026-08-04 00:34:00
+TKT80270,SUB102627,Urgent: Very poor coverage inside my office building This is the second time I am writing.,Network,standard,2026-08-03 10:53:00
+TKT80271,SUB100810,"Hello team, Give me a reason to stay or I am switching Kindly resolve.",Retention,standard,2026-08-02 13:07:00
+TKT80272,SUB100749,"Hello team, I would like to downgrade my monthly pack This is the second time I am writing.",Plan_Change,standard,2026-08-05 17:43:00
+TKT80273,SUB101819,"Dear support, The connection keeps disconnecting every few minutes My number is registered with you.",Network,standard,2026-08-03 20:34:00
+TKT80274,SUB101053,"Good morning, Very poor coverage inside my office building Awaiting your reply.",Network,standard,2026-08-04 08:00:00
+TKT80275,SUB101621,"Good morning, Please close my account, I am moving to another operator My number is registered with you.",Retention,standard,2026-08-02 04:11:00
+TKT80276,SUB101637,"Good morning, My invoice is higher than usual this month Awaiting your reply.",Billing,standard,2026-08-02 10:52:00
+TKT80277,SUB101251,Please help. Internet speed has dropped badly this week number is registered with you.,Network,standard,2026-08-05 22:20:00
+TKT80278,SUB100066,"Urgent: My new SIM is not activating, please help My number is registered with you.",SIM_Activation,standard,2026-08-03 02:07:00
+TKT80279,SUB101497,"Hello team, Internet speed has dropped badly this week",Network,standard,2026-08-04 03:16:00
+TKT80280,SUB102291,Urgent: There is no signal at my home in Bengaluru and my bill is also a problem,Network,noisy,2026-08-02 01:11:00
+TKT80281,SUB100797,"Please close my account, I am moving to another operator This is the second time I am writing and the bill is also a problem",Retention,noisy,2026-08-05 22:14:00
+TKT80282,SUB100556,"Good morning, I am porting out unless you can offer something better",Retention,standard,2026-08-02 08:21:00
+TKT80283,SUB100284,"Hello team, My bill shows roaming charges I never used Kindly resolve.",Billing,standard,2026-08-04 02:19:00
+TKT80284,SUB101833,"Good morning, Port-in request is still showing as pending Thanks.",SIM_Activation,standard,2026-08-04 17:35:00
+TKT80285,SUB101208,"Good morning, There is a charge on my bill I do not recognise My number is registered with you.",Billing,standard,2026-08-02 14:09:00
+TKT80286,SUB101846,The refund for duplicate payment has not arrived My number is registered with you and the signal is also a problem,Billing,noisy,2026-08-02 13:12:00
+TKT80287,SUB100779,Urgent: 4G is not working since yesterday morning My number is registered with you.,Network,standard,2026-08-04 17:41:00
+TKT80288,SUB101626,"Hello team, I want to upgrade to a larger data plan Awaiting your reply and my SIM is also a problem",Plan_Change,noisy,2026-08-02 09:29:00
+TKT80289,SUB100022,"Hi, I inserted the new SIM but there is no service Kindly resolve.",SIM_Activation,standard,2026-08-02 08:35:00
+TKT80290,SUB103033,Urgent: Please explain the extra amount on my invoice Thanks.,Billing,standard,2026-08-04 18:17:00
+TKT80291,SUB101876,Please help. I want to cancel my connection at the end of month Awaiting your reply.,Retention,standard,2026-08-03 11:49:00
+TKT80292,SUB100220,"Hello team, The connection keeps disconnecting every few minutes",Network,standard,2026-08-02 17:05:00
+TKT80293,SUB100158,"Dear support, Calls keep dropping in the Hyderabad area Please respond quickly.",Network,standard,2026-08-01 01:31:00
+TKT80294,SUB100606,"Hi, My invoice is higher than usual this month This is the second time I am writing.",Billing,standard,2026-08-04 21:16:00
+TKT80295,SUB100453,"Hello team, Cancel my postpaid connection immediately Kindly resolve.",Retention,standard,2026-08-02 12:39:00
+TKT80296,SUB101517,Urgent: I want to upgrade to a larger data plan This is the second time I am writing.,Plan_Change,standard,2026-08-03 00:27:00
+TKT80297,SUB101251,"Hello team, I would like to downgrade my monthly pack This is the second time I am writing and my SIM is also a problem",Plan_Change,noisy,2026-08-02 00:38:00
+TKT80298,SUB100613,"Hi, 4G is not working since yesterday morning Awaiting your reply and my plan is also a problem",Network,noisy,2026-08-03 04:15:00
+TKT80299,SUB100858,"Good morning, I want to cancel my connection at the end of the month This is the second time I am writing.",Billing,reassigned,2026-08-03 03:21:00
+TKT80300,SUB102875,"Hi, The connection keeps disconnecting every few minutes Kindly resolve.",Network,standard,2026-08-05 06:24:00
+TKT80301,SUB100869,Urgent: I was billed twice for the same recharge Please respond quickly and the signal is also a problem,Billing,noisy,2026-08-04 15:31:00
+TKT80302,SUB100165,"Dear support, Give me a reason to stay or I am switching Awaiting your reply.",Retention,standard,2026-08-01 13:10:00
+TKT80303,SUB101427,"Good morning, Port-in request is still showing as pending Thanks.",SIM_Activation,standard,2026-08-05 14:26:00
+TKT80304,SUB101779,Urgent: I changed my plan but now the internet does not work Thanks.,Network,ambiguous,2026-08-04 22:30:00
+TKT80305,SUB100631,"Hello team, There a charge on my bill I do not recognise Please respond quickly.",Billing,standard,2026-08-01 22:32:00
+TKT80306,SUB100774,Urgent: invoice is higher than usual this month My number is registered with you.,Billing,standard,2026-08-05 19:15:00
+TKT80307,SUB100129,"Hi, Cancel my postpaid connection immediately Please respond quickly.",Retention,standard,2026-08-02 14:28:00
+TKT80308,SUB101304,"Urgent: My new SIM is not activating, please help Thanks.",SIM_Activation,standard,2026-08-05 23:57:00
+TKT80309,SUB100410,"Dear support, I am porting out unless you can offer something better Thanks.",Retention,standard,2026-08-02 13:34:00
+TKT80310,SUB102298,I want to upgrade to a larger data plan My number is registered with you and the network is also a problem,Plan_Change,noisy,2026-08-02 01:27:00
+TKT80311,SUB101523,Please help. The eSIM QR code is not being accepted and the charges is also a problem,SIM_Activation,noisy,2026-08-05 15:36:00
+TKT80312,SUB102145,Urgent: Give me a reason to stay or I am switching Please respond quickly.,Retention,standard,2026-08-02 11:54:00
+TKT80313,SUB102519,"Dear support, What plans do you have with more data Please respond quickly and my bill is also a problem",Plan_Change,noisy,2026-08-05 15:49:00
+TKT80314,SUB102850,"Hello team, My new plan shows the wrong price on my bill Please respond quickly.",Billing,ambiguous,2026-08-02 21:07:00
+TKT80315,SUB100427,Please help. I inserted the new SIM but there is no service Kindly resolve and my plan is also a problem,SIM_Activation,noisy,2026-08-03 00:30:00
+TKT80316,SUB100900,Urgent: Please switch my account from prepaid to postpaid Awaiting your reply.,Plan_Change,standard,2026-08-05 13:55:00
+TKT80317,SUB102832,Port-in is stuck and I am being billed for both numbers My number is registered with you.,SIM_Activation,ambiguous,2026-08-01 07:37:00
+TKT80318,SUB101491,Please help. My bill shows roaming charges I never used Please respond quickly.,Billing,standard,2026-08-03 19:22:00
+TKT80319,SUB102942,"Hello team, I would like to downgrade my monthly pack Kindly resolve.",Plan_Change,standard,2026-08-05 23:40:00
+TKT80320,SUB101140,"Hello team, I want to cancel because the signal in Chennai is terrible Kindly resolve.",Retention,ambiguous,2026-08-01 00:31:00
+TKT80321,SUB100747,"Hi, Can I add an international pack to my plan Please respond quickly.",Plan_Change,standard,2026-08-02 17:22:00
+TKT80322,SUB103170,"Dear support, Please explain the extra amount on my invoice Awaiting your reply and the signal is also a problem",Billing,noisy,2026-08-01 03:42:00
+TKT80323,SUB103091,"Dear support, I want to cancel my connection at the end of the month This is the second time I am writing.",Retention,standard,2026-08-03 22:34:00
+TKT80324,SUB102728,Please help. I inserted the new SIM but there is no service Kindly resolve.,SIM_Activation,standard,2026-08-01 05:27:00
+TKT80325,SUB100008,Port-in request is still showing as pending Kindly resolve.,Network,reassigned,2026-08-02 18:21:00
+TKT80326,SUB101815,Urgent: I would like to downgrade my monthly pack,Billing,reassigned,2026-08-05 03:13:00
+TKT80327,SUB102761,I changed my plan but now the internet does not work,Network,ambiguous,2026-08-02 09:14:00
+TKT80328,SUB102184,"Dear support, Can I add an international pack to my plan Please respond quickly and my SIM is also a problem",Plan_Change,noisy,2026-08-05 04:24:00
+TKT80329,SUB100510,"Dear support, There is no signal at my home in Bengaluru Thanks.",SIM_Activation,reassigned,2026-08-04 09:43:00
+TKT80330,SUB100247,Urgent: Can I add an international pack to my plan This is the second time I am writing.,Plan_Change,standard,2026-08-02 18:03:00
+TKT80331,SUB101598,Please help. My bill shows roaming charges I never used My number is registered with you.,Billing,standard,2026-08-02 01:39:00
+TKT80332,SUB100837,"Dear support, The eSIM QR code is not being accepted Please respond quickly.",SIM_Activation,standard,2026-08-02 06:08:00
+TKT80333,SUB100037,Urgent: The eSIM QR code is not being accepted Kindly resolve.,SIM_Activation,standard,2026-08-04 18:36:00
+TKT80334,SUB102753,"Please help. I have decided to leave, what is the disconnection process This is the second time I am writing.",Retention,standard,2026-08-01 08:51:00
+TKT80335,SUB102004,"Hello team, There a charge on my bill I do not recognise Awaiting your reply.",Billing,standard,2026-08-02 02:31:00
+TKT80336,SUB102796,"Good morning, Please close my account, I am moving to another operator Thanks.",Retention,standard,2026-08-01 19:07:00
+TKT80337,SUB101347,"Good morning, What plans do you have with more data",Plan_Change,standard,2026-08-03 18:39:00
+TKT80338,SUB100841,"Dear support, Port-in request is still showing as pending This is the second time I am writing.",SIM_Activation,standard,2026-08-05 22:32:00
+TKT80339,SUB100438,"Dear support, My invoice is higher than usual this month Awaiting your reply.",Billing,standard,2026-08-03 21:10:00
+TKT80340,SUB102153,"Good morning, There is a charge on my bill I do not recognise Thanks.",Billing,standard,2026-08-03 19:53:00
+TKT80341,SUB100804,"Dear support, I was billed twice for the same recharge Kindly resolve.",Billing,standard,2026-08-03 18:40:00
+TKT80342,SUB100458,"Dear support, I want to upgrade to a larger data plan Please respond quickly.",Billing,reassigned,2026-08-01 12:49:00
+TKT80343,SUB101321,"Hello team, Port-in request is still showing as pending Kindly resolve.",SIM_Activation,standard,2026-08-04 16:03:00
+TKT80344,SUB100111,"Urgent: My new SIM is not activating, please help This is the second time I am writing and my plan is also a problem",SIM_Activation,noisy,2026-08-01 12:28:00
+TKT80345,SUB100885,"Good morning, My replacement SIM has not started working Please respond quickly.",SIM_Activation,standard,2026-08-03 00:30:00
+TKT80346,SUB102452,Please help. I changed my plan but now the internet does not work This is the second time I am writing.,Network,ambiguous,2026-08-01 01:00:00
+TKT80347,SUB102168,"Hi, The eSIM QR code is not being accepted Please respond quickly.",SIM_Activation,standard,2026-08-03 08:12:00
+TKT80348,SUB101851,"Urgent: I have decided to leave, what is the disconnection process",Retention,standard,2026-08-04 02:07:00
+TKT80349,SUB100589,"Good morning, My bill shows roaming charges I never used Awaiting your reply.",Billing,standard,2026-08-05 04:09:00
+TKT80350,SUB101526,"Hi, What plans do you have with more data and my bill is also a problem",Plan_Change,noisy,2026-08-04 00:09:00
+TKT80351,SUB101989,Calls keep dropping in the Delhi area,Network,standard,2026-08-02 15:48:00
+TKT80352,SUB100349,"Dear support, Slow internet and my bill went up too Awaiting your reply.",Billing,ambiguous,2026-08-05 03:36:00
+TKT80353,SUB100909,"Hi, I would like to downgrade my monthly pack",Plan_Change,standard,2026-08-05 17:51:00
+TKT80354,SUB100508,Please help. The eSIM QR code is not being accepted,SIM_Activation,standard,2026-08-02 04:04:00
+TKT80355,SUB101221,"Good morning, There is no signal at my home in Chennai My number is registered with you.",Network,standard,2026-08-02 00:28:00
+TKT80356,SUB100271,"Hi, Internet speed has dropped badly this week",Network,standard,2026-08-05 20:14:00
+TKT80357,SUB100178,"Hi, My replacement SIM has not started working Thanks.",SIM_Activation,standard,2026-08-05 06:40:00
+TKT80358,SUB102568,"Dear support, There is a charge on my bill I do not recognise",Billing,standard,2026-08-02 07:07:00
+TKT80359,SUB100647,"Urgent: Please close my account, I am moving to another operator This is the second time I am writing.",Retention,standard,2026-08-02 12:06:00
+TKT80360,SUB101962,"Good morning, Can I add an international pack to my plan Awaiting your reply.",Plan_Change,standard,2026-08-03 00:59:00
+TKT80361,SUB102121,Please help. 4G is not working since yesterday morning My number is registered with you.,Network,standard,2026-08-02 18:47:00
+TKT80362,SUB102711,"Good morning, I am porting out unless you can offer something better",Billing,reassigned,2026-08-01 04:23:00
+TKT80363,SUB101979,"Hi, I inserted the new SIM but there is no service Awaiting your reply.",SIM_Activation,standard,2026-08-05 23:15:00
+TKT80364,SUB100985,"Hi, Give me a reason to stay or I am switching This is the second time I am writing.",Retention,standard,2026-08-05 01:13:00
+TKT80365,SUB101444,"Dear support, The connection keeps disconnecting every few minutes My number is registered with you.",Network,standard,2026-08-01 14:01:00
+TKT80366,SUB101138,Urgent: Please explain the extra amount on my invoice Kindly resolve.,Billing,standard,2026-08-01 21:54:00
+TKT80367,SUB100775,Please help. Port-in request is still showing as pending,SIM_Activation,standard,2026-08-05 11:56:00
+TKT80368,SUB101162,Please help. Calls keep dropping the Bengaluru area,Network,standard,2026-08-01 20:26:00
+TKT80369,SUB101689,"Hi, My invoice is higher than usual this month Kindly resolve.",Billing,standard,2026-08-03 06:56:00
+TKT80370,SUB100294,Please help. Cancel my postpaid connection immediately Awaiting your reply.,Retention,standard,2026-08-04 16:25:00
+TKT80371,SUB101454,"Hello team, Activation OTP is not arriving on my phone",SIM_Activation,standard,2026-08-02 20:16:00
+TKT80372,SUB102394,"Hi, Calls keep dropping in the Mumbai area Awaiting your reply.",Network,standard,2026-08-03 06:42:00
+TKT80373,SUB102084,"Dear support, The eSIM QR code is not being accepted",SIM_Activation,standard,2026-08-02 21:43:00
+TKT80374,SUB101780,Please explain the extra amount on my invoice Please respond quickly.,Billing,standard,2026-08-01 15:29:00
+TKT80375,SUB100499,"Hello team, I want to cancel because the signal in Kolkata is terrible This is the second time I am writing.",Retention,ambiguous,2026-08-04 02:52:00
+TKT80376,SUB101185,"Hello team, My invoice is higher than usual this month Thanks.",Billing,standard,2026-08-02 02:07:00
+TKT80377,SUB101956,"Hello team, My new SIM is not activating, please help This is the second time I am writing.",SIM_Activation,standard,2026-08-02 10:13:00
+TKT80378,SUB101693,"Hello team, I am porting out unless you can offer something better Please respond quickly.",Retention,standard,2026-08-02 12:32:00
+TKT80379,SUB100343,Please help. My replacement SIM has not started working,SIM_Activation,standard,2026-08-05 09:59:00
+TKT80380,SUB100527,"Hello team, The eSIM QR code is not being accepted Please respond quickly.",SIM_Activation,standard,2026-08-04 07:00:00
+TKT80381,SUB102817,"Dear support, invoice is higher than usual this month Awaiting your reply.",Billing,standard,2026-08-05 22:19:00
+TKT80382,SUB102185,"Hello team, 4G is not working since yesterday morning Thanks.",Network,standard,2026-08-01 21:55:00
+TKT80383,SUB101078,"Hello team, Please explain the extra amount on my invoice Thanks.",Billing,standard,2026-08-02 02:09:00
+TKT80384,SUB100763,"Dear support, The refund for my duplicate payment has not arrived My number is registered with you.",Billing,standard,2026-08-04 13:10:00
+TKT80385,SUB102749,"Hi, Cancel my postpaid connection immediately Thanks.",Retention,standard,2026-08-04 16:24:00
+TKT80386,SUB101270,I want to change my plan before the next cycle Awaiting your reply.,Plan_Change,standard,2026-08-02 03:17:00
+TKT80387,SUB100890,"Hello team, Can I add an international pack to my plan This is the second time I am writing.",Plan_Change,standard,2026-08-01 10:19:00
+TKT80388,SUB101102,"Dear support, Give me a reason to stay or I am switching This is the second time I am writing.",Retention,standard,2026-08-04 13:17:00
+TKT80389,SUB100510,Urgent: The connection keeps disconnecting every few minutes Kindly resolve.,Network,standard,2026-08-01 16:51:00
+TKT80390,SUB100595,"Hi, Internet speed has dropped badly this week and my plan is also a problem",Network,noisy,2026-08-04 06:36:00
+TKT80391,SUB103089,"Hi, My new SIM is not activating, please help is the second time I am writing.",SIM_Activation,standard,2026-08-05 20:00:00
+TKT80392,SUB100528,Can I add an international pack to my plan,Plan_Change,standard,2026-08-01 15:26:00
+TKT80393,SUB100916,"Hello team, I want to upgrade to a larger data plan Kindly resolve and the network is also a problem",Plan_Change,noisy,2026-08-04 12:56:00
+TKT80394,SUB102503,"Dear support, Give me a reason to stay or I am switching My number is registered with you.",Retention,standard,2026-08-01 22:45:00
+TKT80395,SUB101750,"Good morning, Please switch my account from prepaid to postpaid Thanks.",Plan_Change,standard,2026-08-01 13:09:00
+TKT80396,SUB102681,"Hi, Cancel my postpaid connection immediately Awaiting your reply.",Retention,standard,2026-08-02 19:35:00
+TKT80397,SUB100842,I would like to downgrade monthly pack Please respond quickly.,Plan_Change,standard,2026-08-03 00:41:00
+TKT80398,SUB100267,"Hi, I want to change plan before the next cycle Please respond quickly.",Plan_Change,standard,2026-08-05 10:29:00
+TKT80399,SUB101871,The refund for my duplicate payment has not arrived Kindly resolve.,Billing,standard,2026-08-04 04:11:00
+TKT80400,SUB101780,Urgent: My new plan shows the wrong price on my bill,Billing,ambiguous,2026-08-05 07:23:00
+TKT80401,SUB101940,"Hello team, I want to upgrade to a larger data plan Thanks.",Plan_Change,standard,2026-08-04 20:08:00
+TKT80402,SUB101709,Please help. Calls keep dropping in the Noida area This is the second time I am writing.,Network,standard,2026-08-02 13:06:00
+TKT80403,SUB101471,Please help. 4G is not working since yesterday morning Please respond quickly.,Network,standard,2026-08-03 18:13:00
+TKT80404,SUB102407,"Dear support, Please explain the extra amount on my invoice Awaiting your reply.",Billing,standard,2026-08-02 00:52:00
+TKT80405,SUB100852,"Dear support, Activation OTP is not arriving on my phone Please respond quickly.",SIM_Activation,standard,2026-08-05 23:26:00
+TKT80406,SUB102604,"Hello team, Please switch my account from prepaid to postpaid Please respond quickly.",Plan_Change,standard,2026-08-02 17:54:00
+TKT80407,SUB102173,"Dear support, The connection keeps disconnecting every few minutes Kindly resolve.",Network,standard,2026-08-05 06:30:00
+TKT80408,SUB102506,Urgent: The refund for my duplicate payment has not arrived My number is registered with you and the signal is also a problem,Billing,noisy,2026-08-03 20:35:00
+TKT80409,SUB101346,"Hi, There is no signal at my home in Chennai This is the second time I am writing.",Network,standard,2026-08-05 11:13:00
+TKT80410,SUB101512,"Please help. My new SIM is not activating, please help",SIM_Activation,standard,2026-08-01 07:31:00
+TKT80411,SUB102018,Urgent: I would like to downgrade my monthly pack and my bill is also a problem,Plan_Change,noisy,2026-08-03 18:54:00
+TKT80412,SUB102882,Please help. I would like to downgrade my monthly pack Thanks.,Plan_Change,standard,2026-08-05 03:48:00
+TKT80413,SUB101489,"Please close my account, I am moving to another operator My number is registered with you and the signal is also a problem",Retention,noisy,2026-08-01 17:19:00
+TKT80414,SUB101152,"Urgent: Please close my account, I am moving to another operator Thanks.",Retention,standard,2026-08-04 19:39:00
+TKT80415,SUB100368,I am porting out unless you can offer something better This is the second time I am writing.,Retention,standard,2026-08-04 05:32:00
+TKT80416,SUB101552,"Dear support, I would like to downgrade my monthly pack Thanks.",Plan_Change,standard,2026-08-04 10:31:00
+TKT80417,SUB101042,Urgent: I was billed twice for the same recharge Please respond quickly.,Billing,standard,2026-08-01 14:15:00
+TKT80418,SUB102971,"Dear support, I changed my plan but now the internet does not work number is registered with you.",Network,ambiguous,2026-08-03 18:26:00
+TKT80419,SUB103189,Urgent: I want to upgrade to a larger data plan My number is registered with you.,Plan_Change,standard,2026-08-01 11:36:00
+TKT80420,SUB102670,Urgent: 4G is not working since yesterday morning Awaiting your reply.,Network,standard,2026-08-01 00:12:00
+TKT80421,SUB100739,Urgent: The refund for my duplicate payment has not arrived My number is registered with you.,Billing,standard,2026-08-01 08:42:00
+TKT80422,SUB100282,"Hi, The offer charged me but my SIM is not active This is the second time I am writing.",SIM_Activation,ambiguous,2026-08-03 08:10:00
+TKT80423,SUB100187,"Hi, My replacement SIM has not started working",Network,reassigned,2026-08-05 17:23:00
+TKT80424,SUB102541,"Good morning, I inserted the new SIM but there is no service This is the second time I am writing.",SIM_Activation,standard,2026-08-02 21:20:00
+TKT80425,SUB100871,"Good morning, Please explain the extra amount on my invoice Awaiting your reply.",Plan_Change,reassigned,2026-08-02 08:56:00
+TKT80426,SUB101006,Urgent: The refund for my duplicate payment has not arrived Kindly resolve.,Billing,standard,2026-08-02 21:16:00
+TKT80427,SUB102970,"Hello team, The connection keeps disconnecting every few minutes Awaiting your reply.",Network,standard,2026-08-02 13:04:00
+TKT80428,SUB101767,Urgent: eSIM QR code is not being accepted This is the second time I am writing.,SIM_Activation,standard,2026-08-04 01:01:00
+TKT80429,SUB102238,"Hi, Internet speed has dropped badly this week Kindly resolve.",Network,standard,2026-08-01 05:49:00
+TKT80430,SUB100099,Urgent: I want to upgrade a larger data plan,Plan_Change,standard,2026-08-05 01:04:00
+TKT80431,SUB100418,"Hi, Internet speed has dropped badly this week and my plan is also a problem",SIM_Activation,reassigned,2026-08-05 09:02:00
+TKT80432,SUB100421,"Hello team, My new SIM is not activating, please help This is the second time I am writing.",SIM_Activation,standard,2026-08-03 04:58:00
+TKT80433,SUB100230,"Hello team, Please explain the extra amount on my invoice Kindly resolve.",Plan_Change,reassigned,2026-08-01 03:51:00
+TKT80434,SUB101486,I want to change my plan before the next cycle This is the second time I am writing.,Plan_Change,standard,2026-08-04 03:03:00
+TKT80435,SUB103080,Please help. There is a charge on my bill I do not recognise Kindly resolve.,Billing,standard,2026-08-02 12:06:00
+TKT80436,SUB100961,Please help. Internet speed has dropped badly this week Thanks and my bill is also a problem,Network,noisy,2026-08-02 05:34:00
+TKT80437,SUB101479,Urgent: I want to change my plan before the next cycle Thanks.,Plan_Change,standard,2026-08-01 17:21:00
+TKT80438,SUB101695,Very poor coverage inside my office building This is the second time I am writing.,Network,standard,2026-08-01 21:32:00
+TKT80439,SUB101619,Please help. What plans do you have with more data Kindly resolve and my SIM is also a problem,Billing,reassigned,2026-08-04 17:52:00
+TKT80440,SUB100660,"Hi, Cancel my postpaid connection immediately",Retention,standard,2026-08-03 15:18:00
+TKT80441,SUB101674,Urgent: Activation OTP is not arriving on my phone,SIM_Activation,standard,2026-08-01 10:36:00
+TKT80442,SUB101839,Please help. Internet speed has dropped badly this week Please respond quickly.,Network,standard,2026-08-04 15:16:00
+TKT80443,SUB101724,"Good morning, I have decided to leave, what is the disconnection process Thanks.",Billing,reassigned,2026-08-01 11:56:00
+TKT80444,SUB102008,Please help. What plans do you have with more data Kindly resolve.,Plan_Change,standard,2026-08-05 23:29:00
+TKT80445,SUB100573,"Good morning, I am porting out unless you can offer something better Thanks.",Retention,standard,2026-08-05 00:10:00
+TKT80446,SUB102009,"Hello team, Port-in request is still showing as pending Thanks.",SIM_Activation,standard,2026-08-02 10:11:00
+TKT80447,SUB100625,"Hello team, Port-in request is still showing as pending This is the second time I am writing.",Network,reassigned,2026-08-04 08:40:00
+TKT80448,SUB102377,"Please help. My new SIM is not activating, please help Kindly resolve.",SIM_Activation,standard,2026-08-01 22:25:00
+TKT80449,SUB100073,Please explain the extra amount on my invoice My number is registered with you.,Billing,standard,2026-08-02 04:13:00
+TKT80450,SUB102217,"Hi, I am porting out unless you can offer something better My number is registered with you.",Retention,standard,2026-08-02 20:16:00
+TKT80451,SUB100210,"Please help. My new SIM is not activating, please help Please respond quickly.",SIM_Activation,standard,2026-08-03 07:18:00
+TKT80452,SUB103112,"Dear support, There is a charge on my bill I do not recognise Awaiting your reply and my plan is also a problem",Billing,noisy,2026-08-03 07:51:00
+TKT80453,SUB100959,"Hello team, Can I add an international pack to my plan This is the second time I am writing and my bill is also a problem",Plan_Change,noisy,2026-08-02 11:24:00
+TKT80454,SUB101554,"Good morning, There is a charge on my bill I do not recognise This is the second time I am writing.",Billing,standard,2026-08-05 04:49:00
+TKT80455,SUB102835,Please help. Please switch my account from prepaid to postpaid,Plan_Change,standard,2026-08-03 09:42:00
+TKT80456,SUB101526,"Dear support, There is no signal at my home in Pune",Network,standard,2026-08-05 17:26:00
+TKT80457,SUB102855,"Hi, The connection keeps disconnecting every few minutes Kindly resolve.",Network,standard,2026-08-01 17:23:00
+TKT80458,SUB101396,"Hi, Port-in is stuck and I am being billed for both numbers Please respond quickly.",SIM_Activation,ambiguous,2026-08-03 15:30:00
+TKT80459,SUB102132,"Hi, The connection keeps disconnecting every few minutes Kindly resolve and activation is also a problem",Network,noisy,2026-08-02 11:36:00
+TKT80460,SUB100393,"Please help. My new SIM is not activating, please help Please respond quickly and the signal is also a problem",SIM_Activation,noisy,2026-08-01 22:20:00
+TKT80461,SUB103123,"Dear support, Very poor coverage inside my office building Kindly resolve.",SIM_Activation,reassigned,2026-08-05 15:05:00
+TKT80462,SUB103034,4G is not working since yesterday morning Kindly resolve.,Network,standard,2026-08-01 15:43:00
+TKT80463,SUB102931,Please help. Port-in request is still showing as pending This is the second time I am writing and the charges is also a problem,SIM_Activation,noisy,2026-08-03 22:54:00
+TKT80464,SUB100229,"Dear support, Activation OTP is not arriving on my phone Kindly resolve and the charges is also a problem",SIM_Activation,noisy,2026-08-04 04:39:00
+TKT80465,SUB100750,"Hi, The eSIM QR code is not being accepted",SIM_Activation,standard,2026-08-04 20:25:00
+TKT80466,SUB102012,"Hi, I was billed twice for the same recharge My number is registered with you.",Billing,standard,2026-08-05 14:37:00
+TKT80467,SUB103121,"Dear support, There is a charge on my bill I do not recognise",Billing,standard,2026-08-02 04:21:00
+TKT80468,SUB101741,My invoice is higher than usual this month Awaiting your reply.,Billing,standard,2026-08-05 10:21:00
+TKT80469,SUB102697,Urgent: My invoice is higher than usual this month Thanks and the signal is also a problem,Billing,noisy,2026-08-02 00:23:00
+TKT80470,SUB100755,"Dear support, The connection keeps disconnecting every few minutes This is the second time I am writing.",Network,standard,2026-08-02 22:00:00
+TKT80471,SUB101625,"Good morning, My bill shows roaming charges I never used Awaiting your reply and the signal is also a problem",Billing,noisy,2026-08-03 16:49:00
+TKT80472,SUB102355,Urgent: 4G is not working since yesterday morning,Network,standard,2026-08-03 21:36:00
+TKT80473,SUB102593,Please help. My bill shows roaming charges I never used Kindly resolve.,Billing,standard,2026-08-05 20:17:00
+TKT80474,SUB102836,I was billed twice for same recharge Please respond quickly and my new SIM is also a problem,Billing,noisy,2026-08-05 08:04:00
+TKT80475,SUB100398,"Dear support, The refund for duplicate payment has not arrived Thanks.",Billing,standard,2026-08-05 05:42:00
+TKT80476,SUB102891,Urgent: Activation OTP is not arriving on my phone Thanks.,SIM_Activation,standard,2026-08-03 20:43:00
+TKT80477,SUB102297,"Hello team, I am porting out unless you can offer something better Thanks.",Retention,standard,2026-08-05 20:50:00
+TKT80478,SUB102500,"Hi, The connection keeps disconnecting every few minutes",Network,standard,2026-08-02 05:41:00
+TKT80479,SUB100995,"Dear support, Can I add an international pack to my plan Thanks.",Plan_Change,standard,2026-08-03 21:39:00
+TKT80480,SUB102306,"Dear support, The eSIM QR code is not being accepted Please respond quickly and my plan is also a problem",SIM_Activation,noisy,2026-08-01 10:04:00
+TKT80481,SUB101443,"Hi, The eSIM QR code is not being accepted My number is registered with you.",SIM_Activation,standard,2026-08-05 17:01:00
+TKT80482,SUB102993,"Hello team, I am porting out unless you can offer something better Thanks.",Retention,standard,2026-08-01 19:26:00
+TKT80483,SUB103185,There is a charge on my bill I do not recognise Kindly resolve.,Billing,standard,2026-08-05 06:13:00
+TKT80484,SUB101935,I want to cancel my connection at the end of the month My number is registered with you.,Retention,standard,2026-08-01 13:59:00
+TKT80485,SUB101561,I changed my plan but now the internet does not work My number is registered with you.,Network,ambiguous,2026-08-02 09:25:00
+TKT80486,SUB102582,"Good morning, I was billed twice for the same recharge My number is registered with you.",Billing,standard,2026-08-02 04:14:00
+TKT80487,SUB101834,"Hi, I have decided to leave, what is the disconnection process This is the second time I am writing.",Retention,standard,2026-08-03 07:59:00
+TKT80488,SUB100146,Please help. What plans do you have with more data and the network is also a problem,Plan_Change,noisy,2026-08-03 19:20:00
+TKT80489,SUB100903,"Hi, My invoice higher than usual this month This is the second time I am writing.",Billing,standard,2026-08-01 08:48:00
+TKT80490,SUB100830,"Please close my account, I am moving to another operator Thanks.",Retention,standard,2026-08-04 07:05:00
+TKT80491,SUB102604,"Hi, Give me a reason to stay or I am switching Please respond quickly.",Retention,standard,2026-08-01 16:18:00
+TKT80492,SUB100385,"Hello team, My bill shows roaming charges I never used Kindly resolve.",Billing,standard,2026-08-04 10:56:00
+TKT80493,SUB101476,"Hello team, Cancel my postpaid connection immediately Kindly resolve.",Billing,reassigned,2026-08-05 13:17:00
+TKT80494,SUB101948,Please help. My bill shows roaming charges I never used This is the second time I am writing.,Billing,standard,2026-08-01 23:45:00
+TKT80495,SUB102192,"Hi, I want to change my plan before the next cycle This is the second time I am writing.",Plan_Change,standard,2026-08-03 04:24:00
+TKT80496,SUB100523,"Good morning, Calls keep dropping in the Noida area Please respond quickly.",SIM_Activation,reassigned,2026-08-01 12:16:00
+TKT80497,SUB102471,Please help. There is a charge on my bill I do not recognise,Plan_Change,reassigned,2026-08-03 23:21:00
+TKT80498,SUB101763,"Please close my account, I am moving to another operator This is the second time I am writing.",Retention,standard,2026-08-03 06:03:00
+TKT80499,SUB101469,Urgent: Give me a reason to stay or I am switching My number is registered with you.,Billing,reassigned,2026-08-01 05:46:00
+TKT80500,SUB102808,"Hi, My invoice is higher than usual this month Awaiting your reply.",Billing,standard,2026-08-05 19:43:00
+TKT80501,SUB101882,"Hello team, The connection keeps disconnecting every few minutes My number is registered with you.",Network,standard,2026-08-03 12:07:00
+TKT80502,SUB100450,Urgent: Give me a reason to stay or I am switching This is the second time I am writing.,Billing,reassigned,2026-08-01 04:49:00
+TKT80503,SUB101304,Urgent: I want to change my plan before the next cycle My number is registered with you.,Billing,reassigned,2026-08-04 22:54:00
+TKT80504,SUB101500,"Hi, Can I add an international pack to plan Thanks.",Plan_Change,standard,2026-08-03 15:32:00
+TKT80505,SUB102408,"Urgent: My new SIM is not activating, please help Awaiting your reply.",SIM_Activation,standard,2026-08-05 12:09:00
+TKT80506,SUB102849,I was billed twice for the same recharge This is the second time I am writing.,Billing,standard,2026-08-04 16:41:00
+TKT80507,SUB101175,"Hi, I inserted the new SIM but there is no service Please respond quickly.",SIM_Activation,standard,2026-08-02 20:13:00
+TKT80508,SUB101598,"Hi, Activation OTP is not arriving on phone Kindly resolve.",SIM_Activation,standard,2026-08-05 17:54:00
+TKT80509,SUB100243,"Hi, Please switch my account from prepaid to postpaid My number is registered with you.",Plan_Change,standard,2026-08-03 08:53:00
+TKT80510,SUB100688,Please help. My new plan shows the wrong price on my bill My number is registered with you.,Billing,ambiguous,2026-08-05 18:38:00
+TKT80511,SUB100530,I would like to downgrade my monthly pack Awaiting your reply.,Plan_Change,standard,2026-08-01 14:29:00
+TKT80512,SUB100765,"Hi, Internet speed has dropped badly this week",SIM_Activation,reassigned,2026-08-01 10:26:00
+TKT80513,SUB100416,Please help. I would like to downgrade my monthly pack My number is registered with you.,Plan_Change,standard,2026-08-04 16:16:00
+TKT80514,SUB101785,"Good morning, I was billed twice for the same recharge My number is registered with you.",Billing,standard,2026-08-04 11:41:00
+TKT80515,SUB102009,Please help. I want to upgrade to a larger data plan Awaiting your reply.,Plan_Change,standard,2026-08-01 18:01:00
+TKT80516,SUB102612,Please help. There is no signal at my home in Pune Please respond quickly.,Network,standard,2026-08-05 17:56:00
+TKT80517,SUB102260,Please help. What plans do you have with more data Kindly resolve.,Plan_Change,standard,2026-08-04 14:04:00
+TKT80518,SUB100079,I want to upgrade to a larger data plan This is the second time I am writing.,Plan_Change,standard,2026-08-05 05:43:00
+TKT80519,SUB103157,Urgent: 4G is not working since yesterday morning,Network,standard,2026-08-04 16:44:00
+TKT80520,SUB101148,"Dear support, Activation OTP is not arriving on my phone Kindly resolve.",SIM_Activation,standard,2026-08-05 16:00:00
+TKT80521,SUB102667,"Hi, I was billed twice for the same recharge Awaiting your reply.",Billing,standard,2026-08-04 02:43:00
+TKT80522,SUB101300,"Good morning, The eSIM QR code is not being accepted This is the second time I am writing and my plan is also a problem",SIM_Activation,noisy,2026-08-03 11:12:00
+TKT80523,SUB100687,"Dear support, Give me a reason to stay or I am switching Awaiting your reply.",Retention,standard,2026-08-01 11:28:00
+TKT80524,SUB100848,"Good morning, Port-in is stuck and I am being billed for both numbers Awaiting your reply.",SIM_Activation,ambiguous,2026-08-02 15:27:00
+TKT80525,SUB102078,"Dear support, Activation OTP is not arriving on my phone Please respond quickly.",Network,reassigned,2026-08-04 16:52:00
+TKT80526,SUB100002,"Hi, Can I add an international pack to my plan",Plan_Change,standard,2026-08-04 06:01:00
+TKT80527,SUB100564,Please help. Slow internet and my bill went up too Awaiting your reply.,Billing,ambiguous,2026-08-05 16:52:00
+TKT80528,SUB100186,"Hi, Please switch account from prepaid to postpaid Please respond quickly and my bill is also a problem",Plan_Change,noisy,2026-08-05 11:21:00
+TKT80529,SUB100313,I want to cancel my connection at the end of the month Kindly resolve.,Billing,reassigned,2026-08-04 22:58:00
+TKT80530,SUB100845,"Please close my account, I am moving to another operator Kindly resolve.",Retention,standard,2026-08-04 21:32:00
+TKT80531,SUB100431,Please help. The refund for my duplicate payment has not arrived My number is registered with you.,Billing,standard,2026-08-05 06:15:00
+TKT80532,SUB100766,"Good morning, Port-in request is still showing as pending Awaiting your reply.",SIM_Activation,standard,2026-08-03 13:40:00
+TKT80533,SUB100692,"Hi, Calls keep dropping in the Noida area Please respond quickly.",Network,standard,2026-08-01 21:10:00
+TKT80534,SUB100875,"Dear support, My new SIM is not activating, please help Please respond quickly.",SIM_Activation,standard,2026-08-04 19:42:00
+TKT80535,SUB101133,I would like to downgrade my monthly pack,Plan_Change,standard,2026-08-02 06:59:00
+TKT80536,SUB102280,There is no signal at my home in Pune Thanks.,Network,standard,2026-08-01 10:01:00
+TKT80537,SUB102684,Urgent: The refund for my duplicate payment has not arrived Kindly resolve and my plan is also a problem,Billing,noisy,2026-08-04 11:58:00
+TKT80538,SUB102387,Please help. The refund for my duplicate payment has not arrived is the second time I am writing.,Plan_Change,reassigned,2026-08-05 07:09:00
+TKT80539,SUB101909,"Hello team, I want to change my plan before the next cycle Thanks.",Plan_Change,standard,2026-08-01 11:25:00
+TKT80540,SUB102945,"Dear support, Please explain the extra amount on my invoice Kindly resolve.",Billing,standard,2026-08-01 11:13:00
+TKT80541,SUB102476,"Dear support, There is no signal at my home in Bengaluru Thanks and my bill is also a problem",SIM_Activation,reassigned,2026-08-03 22:48:00
+TKT80542,SUB102748,"Hi, Please switch account from prepaid to postpaid Please respond quickly.",Plan_Change,standard,2026-08-02 14:21:00
+TKT80543,SUB102348,"Good morning, I want to upgrade to a larger data plan Kindly resolve.",Billing,reassigned,2026-08-03 04:12:00
+TKT80544,SUB102991,"Hi, What plans do you have with more data",Plan_Change,standard,2026-08-05 15:53:00
+TKT80545,SUB101178,Urgent: I want to change my plan before the next cycle Thanks.,Plan_Change,standard,2026-08-04 18:05:00
+TKT80546,SUB101167,"Good morning, Please close my account, I am moving to another operator Please respond quickly.",Retention,standard,2026-08-05 19:03:00
+TKT80547,SUB100902,"Good morning, The eSIM QR code is not being accepted This is the second time I am writing.",SIM_Activation,standard,2026-08-01 07:36:00

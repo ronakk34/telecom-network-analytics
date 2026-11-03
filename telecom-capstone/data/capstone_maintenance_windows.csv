@@ -1,0 +1,4 @@
+cell_id,window_start,window_end,reason,change_ticket
+CELL-MUM-02,2026-08-02 02:00,2026-08-02 04:00,Baseband software upgrade,CHG-4471
+CELL-KOL-03,2026-08-03 01:30,2026-08-03 03:00,Antenna tilt optimisation,CHG-4488
+CELL-BLR-02,2026-08-04 02:00,2026-08-04 03:30,Transport link migration,CHG-4502

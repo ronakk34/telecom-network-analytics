@@ -1,0 +1,355 @@
+message_id,customer_id,message_text,true_sentiment,case_type,received_at
+MSG60000,SUB999999,What time does the store in Delhi open on Sunday,Neutral,standard,2026-08-03 17:51:00
+MSG60001,SUB101588,"Worst service I have ever had, I waited two hours and got nothing",Negative,standard,2026-08-05 00:25:00
+MSG60002,SUB101026,"Best network I have used, thank you for the quick help",Positive,standard,2026-08-03 16:56:00
+MSG60003,SUB999999,No internet for three days in Mumbai and not one person helped me,Negative,standard,2026-08-01 20:20:00
+MSG60004,SUB100249,"Fast internet at a fair price, I am really pleased",Positive,standard,2026-08-01 15:10:00
+MSG60005,SUB101557,Is the annual data offer still available,Neutral,standard,2026-08-04 21:14:00
+MSG60006,SUB100121,"Fantastic experience, the festival offer was a great deal",Positive,standard,2026-08-05 16:41:00
+MSG60007,SUB100059,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-01 23:35:00
+MSG60008,SUB101410,"I love the new eSIM, activation was easy and quick",Positive,standard,2026-08-04 21:19:00
+MSG60009,SUB103195,"Worst service I have ever had, I waited two hours and got nothing",Negative,standard,2026-08-04 21:03:00
+MSG60010,SUB102834,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-03 23:56:00
+MSG60011,SUB100167,Call quality in Chennai is unacceptable for what I am paying,Negative,standard,2026-08-05 07:11:00
+MSG60012,SUB102020,The signal is awful here and I am seriously thinking of porting out,Negative,standard,2026-08-02 14:11:00
+MSG60013,SUB102060,"Worst service I have ever had, I waited two hours and got nothing",Negative,standard,2026-08-01 08:35:00
+MSG60014,SUB100133,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-01 08:06:00
+MSG60015,SUB100328,The signal is awful here and I am seriously thinking of porting out,Negative,standard,2026-08-05 18:31:00
+MSG60016,SUB101648,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-01 02:44:00
+MSG60017,SUB100770,"The network is terrible in Kolkata, my calls drop every single day",Negative,standard,2026-08-01 17:52:00
+MSG60018,SUB102098,Great. Another dropped call. Exactly what I needed today,Negative,hard,2026-08-05 02:39:00
+MSG60019,SUB101883,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-03 03:32:00
+MSG60020,SUB101890,"Excellent coverage on my trip to Hyderabad, very satisfied",Positive,standard,2026-08-05 12:02:00
+MSG60021,SUB101109,What time does the store in Kolkata open on Sunday,Neutral,standard,2026-08-01 09:06:00
+MSG60022,SUB100147,Can you explain the charges on my last invoice,Neutral,standard,2026-08-02 20:23:00
+MSG60023,SUB101448,Great. Another dropped call. Exactly what I needed today,Negative,hard,2026-08-02 09:10:00
+MSG60024,SUB102814,No internet for three days in Hyderabad and not one person helped me,Negative,standard,2026-08-03 17:21:00
+MSG60025,SUB102776,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-02 13:57:00
+MSG60026,SUB102779,"Slow internet, expensive plan, a terrible experience all round",Negative,standard,2026-08-01 21:23:00
+MSG60027,SUB999999,Is the annual data offer still available,Neutral,standard,2026-08-01 10:22:00
+MSG60028,SUB101265,"Excellent coverage on my trip to Mumbai, very satisfied",Positive,standard,2026-08-01 11:20:00
+MSG60029,SUB102835,Call quality in Mumbai is unacceptable for what I am paying,Negative,standard,2026-08-05 05:18:00
+MSG60030,SUB100104,"Excellent coverage on my trip to Pune, very satisfied",Positive,standard,2026-08-02 04:49:00
+MSG60031,SUB101288,"Fast internet at a fair price, I am really pleased",Positive,standard,2026-08-01 05:09:00
+MSG60032,SUB101486,I need to update the billing address on my account,Neutral,standard,2026-08-04 15:28:00
+MSG60033,SUB101330,Please tell me how to activate international roaming for Pune,Neutral,standard,2026-08-01 03:09:00
+MSG60034,SUB100535,"My data finished far too fast, I am very disappointed with this plan",Negative,standard,2026-08-04 15:53:00
+MSG60035,SUB100788,"The network is terrible in Pune, my calls drop every single day",Negative,standard,2026-08-03 12:25:00
+MSG60036,SUB100512,Is the annual data offer still available,Neutral,standard,2026-08-01 06:40:00
+MSG60037,SUB102629,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-01 16:04:00
+MSG60038,SUB100859,How do I transfer my number to a new SIM card,Neutral,standard,2026-08-02 13:31:00
+MSG60039,SUB102984,I need to update the billing address on my account,Neutral,standard,2026-08-03 03:17:00
+MSG60040,SUB100728,"I love the new eSIM, activation was easy and quick",Positive,standard,2026-08-01 05:14:00
+MSG60041,SUB101183,"The new 5G in Pune is excellent, very happy with the speed",Positive,standard,2026-08-04 18:28:00
+MSG60042,SUB102649,"Worst service I have ever had, I waited two hours and got nothing",Negative,standard,2026-08-01 04:29:00
+MSG60043,SUB100028,The app works well and my bill was finally correct this month,Positive,standard,2026-08-02 05:07:00
+MSG60044,SUB100931,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-04 12:42:00
+MSG60045,SUB101828,I was worried about my bill but it turned out fine,Positive,hard,2026-08-05 22:26:00
+MSG60046,SUB100996,How do I transfer my number to a new SIM card,Neutral,standard,2026-08-02 10:37:00
+MSG60047,SUB100110,No internet for three days in Pune and not one person helped me,Negative,standard,2026-08-01 18:42:00
+MSG60048,SUB100744,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-02 04:36:00
+MSG60049,SUB999999,No internet for three days in Chennai and not one person helped me,Negative,standard,2026-08-01 20:38:00
+MSG60050,SUB101539,Call quality in Pune is unacceptable for what I am paying,Negative,standard,2026-08-05 01:47:00
+MSG60051,SUB101839,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-04 04:49:00
+MSG60052,SUB101643,No internet for three days in Pune and not one person helped me,Negative,standard,2026-08-05 07:31:00
+MSG60053,SUB100263,"I am extremely frustrated, my SIM activation has failed twice now",Negative,standard,2026-08-03 15:27:00
+MSG60054,SUB100279,"Oh brilliant, no signal AGAIN, I just love paying for nothing",Negative,hard,2026-08-02 02:55:00
+MSG60055,SUB102503,"I am extremely frustrated, my SIM activation has failed twice now",Negative,standard,2026-08-05 14:10:00
+MSG60056,SUB101791,"Slow internet, expensive plan, a terrible experience all round",Negative,standard,2026-08-02 23:20:00
+MSG60057,SUB103090,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-03 04:16:00
+MSG60058,SUB100495,The staff were not helpful at all,Negative,hard,2026-08-03 04:16:00
+MSG60059,SUB101273,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-04 06:15:00
+MSG60060,SUB100637,I want to know my current data balance for this month,Neutral,standard,2026-08-04 03:04:00
+MSG60061,SUB100199,I want to know my current data balance for this month,Neutral,standard,2026-08-05 07:42:00
+MSG60062,SUB102425,"Fantastic experience, the festival offer was a great deal",Positive,standard,2026-08-05 18:32:00
+MSG60063,SUB102726,Not the worst month I have had with you,Positive,hard,2026-08-04 20:48:00
+MSG60064,SUB100504,Is the annual data offer still available,Neutral,standard,2026-08-04 05:44:00
+MSG60065,SUB100665,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-05 18:22:00
+MSG60066,SUB100290,"The new 5G in Chennai is excellent, very happy with the speed",Positive,standard,2026-08-02 20:08:00
+MSG60067,SUB102047,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-05 12:41:00
+MSG60068,SUB100085,The signal is awful here and I am seriously thinking of porting out,Negative,standard,2026-08-02 22:58:00
+MSG60069,SUB101385,Please tell me how to activate international roaming for Pune,Neutral,standard,2026-08-03 20:06:00
+MSG60070,SUB100236,"Third complaint this month about the same billing error, still unresolved",Negative,standard,2026-08-04 09:17:00
+MSG60071,SUB103118,"Slow internet, expensive plan, a terrible experience all round",Negative,standard,2026-08-04 06:46:00
+MSG60072,SUB102041,Call quality in Bengaluru is unacceptable for what I am paying,Negative,standard,2026-08-01 12:36:00
+MSG60073,SUB102347,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-01 11:02:00
+MSG60074,SUB100839,"Fast internet at a fair price, I am really pleased",Positive,standard,2026-08-03 22:03:00
+MSG60075,SUB999999,How do I transfer my number to a new SIM card,Neutral,standard,2026-08-04 00:33:00
+MSG60076,SUB101341,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-02 11:26:00
+MSG60077,SUB101544,Can you explain the charges on my last invoice,Neutral,standard,2026-08-05 14:54:00
+MSG60078,SUB100057,No internet for three days in Hyderabad and not one person helped me,Negative,standard,2026-08-05 04:13:00
+MSG60079,SUB101486,"Fantastic experience, the festival offer was a great deal",Positive,standard,2026-08-01 09:45:00
+MSG60080,SUB102601,Is the annual data offer still available,Neutral,standard,2026-08-04 02:24:00
+MSG60081,SUB101296,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-04 04:20:00
+MSG60082,SUB102727,"Best network I have used, thank you for the quick help",Positive,standard,2026-08-02 13:09:00
+MSG60083,SUB100765,The app works well and my bill was finally correct this month,Positive,standard,2026-08-04 02:38:00
+MSG60084,SUB100066,How do I transfer my number to a new SIM card,Neutral,standard,2026-08-01 21:36:00
+MSG60085,SUB999999,Please tell me how to activate international roaming for Delhi,Neutral,standard,2026-08-05 08:23:00
+MSG60086,SUB102914,No internet for three days in Kolkata and not one person helped me,Negative,standard,2026-08-02 23:23:00
+MSG60087,SUB100023,I need to update the billing address on my account,Neutral,standard,2026-08-01 04:36:00
+MSG60088,SUB100868,"Best network I have used, thank you for the quick help",Positive,standard,2026-08-05 17:55:00
+MSG60089,SUB103153,"Excellent coverage on my trip to Noida, very satisfied",Positive,standard,2026-08-01 14:43:00
+MSG60090,SUB101903,"Third complaint this month about the same billing error, still unresolved",Negative,standard,2026-08-01 04:44:00
+MSG60091,SUB100846,Call quality in Bengaluru is unacceptable for what I am paying,Negative,standard,2026-08-01 19:43:00
+MSG60092,SUB100189,What time does the store in Chennai open on Sunday,Neutral,standard,2026-08-01 09:13:00
+MSG60093,SUB100856,"I am extremely frustrated, my SIM activation has failed twice now",Negative,standard,2026-08-05 22:24:00
+MSG60094,SUB101662,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-02 15:24:00
+MSG60095,SUB102011,"Fast internet at a fair price, I am really pleased",Positive,standard,2026-08-01 17:35:00
+MSG60096,SUB100064,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-05 00:55:00
+MSG60097,SUB102883,"I love the new eSIM, activation was easy and quick",Positive,standard,2026-08-02 03:13:00
+MSG60098,SUB102599,"I am extremely frustrated, my SIM activation has failed twice now",Negative,standard,2026-08-01 20:27:00
+MSG60099,SUB100645,I need to update the billing address on my account,Neutral,standard,2026-08-02 18:22:00
+MSG60100,SUB100807,Please tell me how to activate international roaming for Mumbai,Neutral,standard,2026-08-01 03:38:00
+MSG60101,SUB101582,No internet for three days in Chennai and not one person helped me,Negative,standard,2026-08-02 03:50:00
+MSG60102,SUB102392,Nothing about this service is good,Negative,hard,2026-08-01 08:59:00
+MSG60103,SUB102213,I want to know my current data balance for this month,Neutral,standard,2026-08-02 13:35:00
+MSG60104,SUB101872,The app works well and my bill was finally correct this month,Positive,standard,2026-08-04 06:08:00
+MSG60105,SUB102882,The signal is awful here and I am seriously thinking of porting out,Negative,standard,2026-08-02 07:21:00
+MSG60106,SUB102259,"Fantastic experience, the festival offer was a great deal",Positive,standard,2026-08-04 09:15:00
+MSG60107,SUB100812,I need to update the billing address on my account,Neutral,standard,2026-08-01 06:53:00
+MSG60108,SUB101793,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-05 12:59:00
+MSG60109,SUB101248,The app works well and my bill was finally correct this month,Positive,standard,2026-08-05 04:26:00
+MSG60110,SUB101057,"The network is terrible in Noida, my calls drop every single day",Negative,standard,2026-08-03 18:58:00
+MSG60111,SUB999999,"Slow internet, expensive plan, a terrible experience all round",Negative,standard,2026-08-05 06:20:00
+MSG60112,SUB102431,"The network is terrible in Hyderabad, my calls drop every single day",Negative,standard,2026-08-03 01:32:00
+MSG60113,SUB100906,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-05 01:55:00
+MSG60114,SUB101989,I need to update the billing address on my account,Neutral,standard,2026-08-03 17:51:00
+MSG60115,SUB100066,"Slow internet, expensive plan, a terrible experience all round",Negative,standard,2026-08-01 14:52:00
+MSG60116,SUB103079,"Fast internet at a fair price, I am really pleased",Positive,standard,2026-08-03 11:22:00
+MSG60117,SUB102415,The signal is awful here and I am seriously thinking of porting out,Negative,standard,2026-08-01 10:43:00
+MSG60118,SUB101555,How do I transfer my number to a new SIM card,Neutral,standard,2026-08-03 09:16:00
+MSG60119,SUB102380,"The new 5G in Chennai is excellent, very happy with the speed",Positive,standard,2026-08-03 22:26:00
+MSG60120,SUB101965,"The network is terrible in Hyderabad, my calls drop every single day",Negative,standard,2026-08-03 08:28:00
+MSG60121,SUB101712,"Best network I have used, thank you for the quick help",Positive,standard,2026-08-02 13:49:00
+MSG60122,SUB102988,"Slow internet, expensive plan, a terrible experience all round",Negative,standard,2026-08-05 01:56:00
+MSG60123,SUB100061,"The network is terrible in Hyderabad, my calls drop every single day",Negative,standard,2026-08-01 18:42:00
+MSG60124,SUB103084,Can you explain the charges on my last invoice,Neutral,standard,2026-08-03 03:21:00
+MSG60125,SUB100886,No internet for three days in Delhi and not one person helped me,Negative,standard,2026-08-02 21:08:00
+MSG60126,SUB101509,Not the worst month I have had with you,Positive,hard,2026-08-03 17:57:00
+MSG60127,SUB101434,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-04 04:59:00
+MSG60128,SUB101902,"The network is terrible in Noida, my calls drop every single day",Negative,standard,2026-08-02 07:43:00
+MSG60129,SUB101460,"Slow internet, expensive plan, a terrible experience all round",Negative,standard,2026-08-01 10:59:00
+MSG60130,SUB102181,"Third complaint this month about the same billing error, still unresolved",Negative,standard,2026-08-01 03:45:00
+MSG60131,SUB101392,Please tell me how to activate international roaming for Hyderabad,Neutral,standard,2026-08-03 15:17:00
+MSG60132,SUB100514,Call quality in Hyderabad is unacceptable for what I am paying,Negative,standard,2026-08-02 07:47:00
+MSG60133,SUB102396,"I love the new eSIM, activation was easy and quick",Positive,standard,2026-08-01 19:10:00
+MSG60134,SUB101809,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-04 08:56:00
+MSG60135,SUB100756,How do I transfer my number to a new SIM card,Neutral,standard,2026-08-03 12:49:00
+MSG60136,SUB102037,"The new 5G in Hyderabad is excellent, very happy with the speed",Positive,standard,2026-08-04 23:42:00
+MSG60137,SUB101087,"Oh brilliant, no signal AGAIN, I just love paying for nothing",Negative,hard,2026-08-03 23:14:00
+MSG60138,SUB100180,"My data finished far too fast, I am very disappointed with this plan",Negative,standard,2026-08-03 12:11:00
+MSG60139,SUB100292,"Third complaint this month about the same billing error, still unresolved",Negative,standard,2026-08-04 22:18:00
+MSG60140,SUB101229,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-03 10:49:00
+MSG60141,SUB100677,I need to update the billing address on my account,Neutral,standard,2026-08-04 21:54:00
+MSG60142,SUB102921,The signal is awful here and I am seriously thinking of porting out,Negative,standard,2026-08-05 01:57:00
+MSG60143,SUB102143,Call quality in Chennai is unacceptable for what I am paying,Negative,standard,2026-08-04 00:29:00
+MSG60144,SUB103138,How do I transfer my number to a new SIM card,Neutral,standard,2026-08-02 09:53:00
+MSG60145,SUB101865,No internet for three days in Bengaluru and not one person helped me,Negative,standard,2026-08-01 15:58:00
+MSG60146,SUB102707,How do I transfer my number to a new SIM card,Neutral,standard,2026-08-03 20:09:00
+MSG60147,SUB100728,Great. Another dropped call. Exactly what I needed today,Negative,hard,2026-08-01 11:22:00
+MSG60148,SUB999999,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-04 16:42:00
+MSG60149,SUB100840,Call quality in Bengaluru is unacceptable for what I am paying,Negative,standard,2026-08-01 22:11:00
+MSG60150,SUB102474,Call quality in Bengaluru is unacceptable for what I am paying,Negative,standard,2026-08-03 18:00:00
+MSG60151,SUB101205,Call quality in Noida is unacceptable for what I am paying,Negative,standard,2026-08-03 21:44:00
+MSG60152,SUB101852,"Slow internet, expensive plan, a terrible experience all round",Negative,standard,2026-08-01 20:40:00
+MSG60153,SUB100564,The app works well and my bill was finally correct this month,Positive,standard,2026-08-03 07:08:00
+MSG60154,SUB103112,"My data finished far too fast, I am very disappointed with this plan",Negative,standard,2026-08-02 16:41:00
+MSG60155,SUB101574,The app works well and my bill was finally correct this month,Positive,standard,2026-08-05 11:42:00
+MSG60156,SUB100528,"Worst service I have ever had, I waited two hours and got nothing",Negative,standard,2026-08-02 12:00:00
+MSG60157,SUB101602,I need to update the billing address on my account,Neutral,standard,2026-08-05 19:56:00
+MSG60158,SUB102197,"Fast internet at a fair price, I am really pleased",Positive,standard,2026-08-04 18:41:00
+MSG60159,SUB100043,The network is not bad actually,Positive,hard,2026-08-02 02:39:00
+MSG60160,SUB102061,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-01 07:32:00
+MSG60161,SUB101947,"I love the new eSIM, activation was easy and quick",Positive,standard,2026-08-04 02:38:00
+MSG60162,SUB101273,Can you explain the charges on my last invoice,Neutral,standard,2026-08-01 19:48:00
+MSG60163,SUB103092,I need to update the billing address on my account,Neutral,standard,2026-08-02 14:17:00
+MSG60164,SUB100135,The app works well and my bill was finally correct this month,Positive,standard,2026-08-01 17:58:00
+MSG60165,SUB102105,Please tell me how to activate international roaming for Pune,Neutral,standard,2026-08-03 13:09:00
+MSG60166,SUB100151,"I am extremely frustrated, my SIM activation has failed twice now",Negative,standard,2026-08-04 20:28:00
+MSG60167,SUB100673,"Fantastic experience, the festival offer was a great deal",Positive,standard,2026-08-05 21:24:00
+MSG60168,SUB101287,Can you explain the charges on my last invoice,Neutral,standard,2026-08-05 03:54:00
+MSG60169,SUB101220,"My data finished far too fast, I am very disappointed with this plan",Negative,standard,2026-08-02 19:01:00
+MSG60170,SUB103069,Call quality in Bengaluru is unacceptable for what I am paying,Negative,standard,2026-08-05 20:42:00
+MSG60171,SUB102549,"Slow internet, expensive plan, a terrible experience all round",Negative,standard,2026-08-04 12:59:00
+MSG60172,SUB101826,"The network is terrible in Mumbai, my calls drop every single day",Negative,standard,2026-08-01 03:17:00
+MSG60173,SUB100133,Please tell me how to activate international roaming for Hyderabad,Neutral,standard,2026-08-02 20:07:00
+MSG60174,SUB100970,"The new 5G in Kolkata is excellent, very happy with the speed",Positive,standard,2026-08-03 05:59:00
+MSG60175,SUB102354,Nothing about this service is good,Negative,hard,2026-08-04 22:03:00
+MSG60176,SUB102318,"Slow internet, expensive plan, a terrible experience all round",Negative,standard,2026-08-02 13:04:00
+MSG60177,SUB999999,I want to know my current data balance for this month,Neutral,standard,2026-08-03 20:18:00
+MSG60178,SUB101155,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-02 08:06:00
+MSG60179,SUB101533,"I love the new eSIM, activation was easy and quick",Positive,standard,2026-08-04 19:56:00
+MSG60180,SUB100140,Please tell me how to activate international roaming for Chennai,Neutral,standard,2026-08-02 17:15:00
+MSG60181,SUB100198,I want to know my current data balance for this month,Neutral,standard,2026-08-03 21:50:00
+MSG60182,SUB102983,"Oh brilliant, no signal AGAIN, I just love paying for nothing",Negative,hard,2026-08-02 08:53:00
+MSG60183,SUB102736,"Best network I have used, thank you for the quick help",Positive,standard,2026-08-05 07:26:00
+MSG60184,SUB100411,I was worried about my bill but it turned out fine,Positive,hard,2026-08-04 07:05:00
+MSG60185,SUB999999,The staff were not helpful at all,Negative,hard,2026-08-05 13:10:00
+MSG60186,SUB101065,The signal is awful here and I am seriously thinking of porting out,Negative,standard,2026-08-03 06:57:00
+MSG60187,SUB100488,Please tell me how to activate international roaming for Pune,Neutral,standard,2026-08-01 07:29:00
+MSG60188,SUB103089,Is the annual data offer still available,Neutral,standard,2026-08-01 21:37:00
+MSG60189,SUB100929,Call quality in Noida is unacceptable for what I am paying,Negative,standard,2026-08-03 00:22:00
+MSG60190,SUB100130,Call quality in Mumbai is unacceptable for what I am paying,Negative,standard,2026-08-01 21:30:00
+MSG60191,SUB101155,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-04 09:46:00
+MSG60192,SUB102005,No internet for three days in Delhi and not one person helped me,Negative,standard,2026-08-04 12:56:00
+MSG60193,SUB101603,The network is not bad actually,Positive,hard,2026-08-01 10:18:00
+MSG60194,SUB101582,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-05 06:07:00
+MSG60195,SUB100321,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-01 02:37:00
+MSG60196,SUB102579,"The new 5G in Mumbai is excellent, very happy with the speed",Positive,standard,2026-08-04 04:51:00
+MSG60197,SUB101080,Can you explain the charges on my last invoice,Neutral,standard,2026-08-01 15:03:00
+MSG60198,SUB999999,Call quality in Delhi is unacceptable for what I am paying,Negative,standard,2026-08-02 05:33:00
+MSG60199,SUB100515,What time does the store in Bengaluru open on Sunday,Neutral,standard,2026-08-04 08:21:00
+MSG60200,SUB102373,Call quality in Noida is unacceptable for what I am paying,Negative,standard,2026-08-05 13:45:00
+MSG60201,SUB100816,"I am extremely frustrated, my SIM activation has failed twice now",Negative,standard,2026-08-05 20:05:00
+MSG60202,SUB103049,I would not say I am unhappy with the speed,Positive,hard,2026-08-02 22:32:00
+MSG60203,SUB100900,"Worst service I have ever had, I waited two hours and got nothing",Negative,standard,2026-08-02 05:41:00
+MSG60204,SUB100290,Please tell me how to activate international roaming for Hyderabad,Neutral,standard,2026-08-01 17:05:00
+MSG60205,SUB100675,"I love the new eSIM, activation was easy and quick",Positive,standard,2026-08-05 16:33:00
+MSG60206,SUB102340,"Slow internet, expensive plan, a terrible experience all round",Negative,standard,2026-08-03 23:00:00
+MSG60207,SUB100977,No internet for three days in Noida and not one person helped me,Negative,standard,2026-08-03 10:52:00
+MSG60208,SUB100119,The staff were not helpful at all,Negative,hard,2026-08-05 05:39:00
+MSG60209,SUB102304,"The new 5G in Noida is excellent, very happy with the speed",Positive,standard,2026-08-01 09:14:00
+MSG60210,SUB102237,"I love the new eSIM, activation was easy and quick",Positive,standard,2026-08-03 00:07:00
+MSG60211,SUB102065,"Third complaint this month about the same billing error, still unresolved",Negative,standard,2026-08-03 22:22:00
+MSG60212,SUB101794,Please tell me how to activate international roaming for Mumbai,Neutral,standard,2026-08-03 05:45:00
+MSG60213,SUB103191,The app works well and my bill was finally correct this month,Positive,standard,2026-08-03 20:23:00
+MSG60214,SUB102031,"Fantastic experience, the festival offer was a great deal",Positive,standard,2026-08-02 02:52:00
+MSG60215,SUB102163,"The network is terrible in Noida, my calls drop every single day",Negative,standard,2026-08-01 18:19:00
+MSG60216,SUB100358,"My data finished far too fast, I am very disappointed with this plan",Negative,standard,2026-08-03 23:02:00
+MSG60217,SUB103078,Call quality in Chennai is unacceptable for what I am paying,Negative,standard,2026-08-05 15:03:00
+MSG60218,SUB102814,"Fast internet at a fair price, I am really pleased",Positive,standard,2026-08-05 23:52:00
+MSG60219,SUB102462,How do I transfer my number to a new SIM card,Neutral,standard,2026-08-04 17:17:00
+MSG60220,SUB102761,I need to update the billing address on my account,Neutral,standard,2026-08-03 18:15:00
+MSG60221,SUB101109,"The new 5G in Chennai is excellent, very happy with the speed",Positive,standard,2026-08-05 23:24:00
+MSG60222,SUB103157,Can you explain the charges on my last invoice,Neutral,standard,2026-08-03 07:17:00
+MSG60223,SUB101636,"Excellent coverage on my trip to Pune, very satisfied",Positive,standard,2026-08-03 08:31:00
+MSG60224,SUB103066,What time does the store in Pune open on Sunday,Neutral,standard,2026-08-02 18:58:00
+MSG60225,SUB103193,I would not say I am unhappy with the speed,Positive,hard,2026-08-02 23:06:00
+MSG60226,SUB101830,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-03 06:22:00
+MSG60227,SUB100255,"Fantastic experience, the festival offer was a great deal",Positive,standard,2026-08-05 10:06:00
+MSG60228,SUB101735,The app works well and my bill was finally correct this month,Positive,standard,2026-08-01 22:12:00
+MSG60229,SUB101213,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-01 11:12:00
+MSG60230,SUB102834,"I love the new eSIM, activation was easy and quick",Positive,standard,2026-08-03 07:54:00
+MSG60231,SUB101934,"Slow internet, expensive plan, a terrible experience all round",Negative,standard,2026-08-03 17:15:00
+MSG60232,SUB101161,"Best network I have used, thank you for the quick help",Positive,standard,2026-08-05 05:02:00
+MSG60233,SUB103073,Call quality in Noida is unacceptable for what I am paying,Negative,standard,2026-08-05 12:42:00
+MSG60234,SUB101961,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-02 12:38:00
+MSG60235,SUB102346,I would not say I am unhappy with the speed,Positive,hard,2026-08-02 11:37:00
+MSG60236,SUB102976,"Excellent coverage on my trip to Hyderabad, very satisfied",Positive,standard,2026-08-05 00:34:00
+MSG60237,SUB101065,Can you explain the charges on my last invoice,Neutral,standard,2026-08-02 13:10:00
+MSG60238,SUB100961,"The network is terrible in Mumbai, my calls drop every single day",Negative,standard,2026-08-04 05:10:00
+MSG60239,SUB102937,"Worst service I have ever had, I waited two hours and got nothing",Negative,standard,2026-08-05 12:35:00
+MSG60240,SUB101194,"I love the new eSIM, activation was easy and quick",Positive,standard,2026-08-02 10:41:00
+MSG60241,SUB101831,I want to know my current data balance for this month,Neutral,standard,2026-08-01 23:08:00
+MSG60242,SUB102960,I want to know my current data balance for this month,Neutral,standard,2026-08-04 18:37:00
+MSG60243,SUB100323,The signal is awful here and I am seriously thinking of porting out,Negative,standard,2026-08-05 08:35:00
+MSG60244,SUB100204,Can you explain the charges on my last invoice,Neutral,standard,2026-08-02 04:35:00
+MSG60245,SUB101836,"Worst service I have ever had, I waited two hours and got nothing",Negative,standard,2026-08-01 10:23:00
+MSG60246,SUB101810,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-02 06:44:00
+MSG60247,SUB102214,No internet for three days in Hyderabad and not one person helped me,Negative,standard,2026-08-02 00:10:00
+MSG60248,SUB103008,"Third complaint this month about the same billing error, still unresolved",Negative,standard,2026-08-05 11:07:00
+MSG60249,SUB999999,How do I transfer my number to a new SIM card,Neutral,standard,2026-08-05 14:54:00
+MSG60250,SUB100273,"The network is terrible in Kolkata, my calls drop every single day",Negative,standard,2026-08-03 04:13:00
+MSG60251,SUB100170,I want to know my current data balance for this month,Neutral,standard,2026-08-01 17:25:00
+MSG60252,SUB101283,"I am extremely frustrated, my SIM activation has failed twice now",Negative,standard,2026-08-03 23:34:00
+MSG60253,SUB102595,"The new 5G in Mumbai is excellent, very happy with the speed",Positive,standard,2026-08-03 02:30:00
+MSG60254,SUB100386,The signal is awful here and I am seriously thinking of porting out,Negative,standard,2026-08-05 14:07:00
+MSG60255,SUB100964,Please tell me how to activate international roaming for Mumbai,Neutral,standard,2026-08-05 18:58:00
+MSG60256,SUB102235,"I am extremely frustrated, my SIM activation has failed twice now",Negative,standard,2026-08-04 06:11:00
+MSG60257,SUB101353,"My data finished far too fast, I am very disappointed with this plan",Negative,standard,2026-08-02 00:16:00
+MSG60258,SUB102385,The network is not bad actually,Positive,hard,2026-08-01 03:44:00
+MSG60259,SUB102917,Is the annual data offer still available,Neutral,standard,2026-08-05 08:45:00
+MSG60260,SUB102620,"Best network I have used, thank you for the quick help",Positive,standard,2026-08-05 16:34:00
+MSG60261,SUB102463,"I am extremely frustrated, my SIM activation has failed twice now",Negative,standard,2026-08-02 03:25:00
+MSG60262,SUB102163,I need to update the billing address on my account,Neutral,standard,2026-08-01 10:29:00
+MSG60263,SUB102456,"Fantastic experience, the festival offer was a great deal",Positive,standard,2026-08-01 07:41:00
+MSG60264,SUB103180,No internet for three days in Bengaluru and not one person helped me,Negative,standard,2026-08-03 23:20:00
+MSG60265,SUB999999,The app works well and my bill was finally correct this month,Positive,standard,2026-08-05 00:54:00
+MSG60266,SUB100058,The signal is awful here and I am seriously thinking of porting out,Negative,standard,2026-08-02 14:57:00
+MSG60267,SUB100983,"I love the new eSIM, activation was easy and quick",Positive,standard,2026-08-01 00:38:00
+MSG60268,SUB100892,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-04 14:27:00
+MSG60269,SUB101489,"Third complaint this month about the same billing error, still unresolved",Negative,standard,2026-08-02 13:18:00
+MSG60270,SUB100238,"Fast internet at a fair price, I am really pleased",Positive,standard,2026-08-05 02:43:00
+MSG60271,SUB102917,The signal is awful here and I am seriously thinking of porting out,Negative,standard,2026-08-02 00:54:00
+MSG60272,SUB102797,The app works well and my bill was finally correct this month,Positive,standard,2026-08-03 04:38:00
+MSG60273,SUB102950,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-01 15:17:00
+MSG60274,SUB100358,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-01 02:30:00
+MSG60275,SUB103063,"Excellent coverage on my trip to Mumbai, very satisfied",Positive,standard,2026-08-02 17:28:00
+MSG60276,SUB102428,I want to know my current data balance for this month,Neutral,standard,2026-08-02 23:38:00
+MSG60277,SUB100259,"Best network I have used, thank you for the quick help",Positive,standard,2026-08-03 08:20:00
+MSG60278,SUB100903,The signal is awful here and I am seriously thinking of porting out,Negative,standard,2026-08-04 00:04:00
+MSG60279,SUB102142,I was worried about my bill but it turned out fine,Positive,hard,2026-08-05 12:24:00
+MSG60280,SUB102425,Please tell me how to activate international roaming for Hyderabad,Neutral,standard,2026-08-04 13:13:00
+MSG60281,SUB102622,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-04 11:37:00
+MSG60282,SUB101639,Please tell me how to activate international roaming for Delhi,Neutral,standard,2026-08-02 12:27:00
+MSG60283,SUB100319,"Fast internet at a fair price, I am really pleased",Positive,standard,2026-08-01 02:14:00
+MSG60284,SUB103026,What time does the store in Noida open on Sunday,Neutral,standard,2026-08-03 07:48:00
+MSG60285,SUB101334,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-04 02:43:00
+MSG60286,SUB102797,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-04 03:38:00
+MSG60287,SUB101999,"The new 5G in Pune is excellent, very happy with the speed",Positive,standard,2026-08-05 18:11:00
+MSG60288,SUB100652,No internet for three days in Noida and not one person helped me,Negative,standard,2026-08-01 08:08:00
+MSG60289,SUB102823,No internet for three days in Chennai and not one person helped me,Negative,standard,2026-08-01 03:09:00
+MSG60290,SUB102622,"Best network I have used, thank you for the quick help",Positive,standard,2026-08-01 13:53:00
+MSG60291,SUB102140,What time does the store in Mumbai open on Sunday,Neutral,standard,2026-08-05 19:37:00
+MSG60292,SUB103135,"I love the new eSIM, activation was easy and quick",Positive,standard,2026-08-02 18:32:00
+MSG60293,SUB100936,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-01 02:21:00
+MSG60294,SUB103135,I need to update the billing address on my account,Neutral,standard,2026-08-03 20:32:00
+MSG60295,SUB101537,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-05 05:50:00
+MSG60296,SUB102706,I want to know my current data balance for this month,Neutral,standard,2026-08-02 00:02:00
+MSG60297,SUB100089,I would like to change my monthly plan from next cycle,Neutral,standard,2026-08-02 05:36:00
+MSG60298,SUB102463,"The network is terrible in Hyderabad, my calls drop every single day",Negative,standard,2026-08-04 16:29:00
+MSG60299,SUB102259,The signal is awful here and I am seriously thinking of porting out,Negative,standard,2026-08-04 19:28:00
+MSG60300,SUB101423,"My data finished far too fast, I am very disappointed with this plan",Negative,standard,2026-08-04 04:42:00
+MSG60301,SUB103010,"Fantastic experience, the festival offer was a great deal",Positive,standard,2026-08-05 12:54:00
+MSG60302,SUB102508,I need to update the billing address on my account,Neutral,standard,2026-08-04 07:02:00
+MSG60303,SUB100923,"Third complaint this month about the same billing error, still unresolved",Negative,standard,2026-08-02 16:59:00
+MSG60304,SUB102940,"Third complaint this month about the same billing error, still unresolved",Negative,standard,2026-08-03 18:41:00
+MSG60305,SUB101494,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-04 11:09:00
+MSG60306,SUB101021,Can you explain the charges on my last invoice,Neutral,standard,2026-08-02 20:51:00
+MSG60307,SUB102828,"Excellent coverage on my trip to Kolkata, very satisfied",Positive,standard,2026-08-05 20:47:00
+MSG60308,SUB102584,Not the worst month I have had with you,Positive,hard,2026-08-05 08:28:00
+MSG60309,SUB999999,"I am extremely frustrated, my SIM activation has failed twice now",Negative,standard,2026-08-04 00:43:00
+MSG60310,SUB102155,"Worst service I have ever had, I waited two hours and got nothing",Negative,standard,2026-08-01 17:29:00
+MSG60311,SUB100212,Please tell me how to activate international roaming for Mumbai,Neutral,standard,2026-08-03 05:08:00
+MSG60312,SUB102944,I need to update the billing address on my account,Neutral,standard,2026-08-02 06:44:00
+MSG60313,SUB100051,"Excellent coverage on my trip to Hyderabad, very satisfied",Positive,standard,2026-08-04 11:38:00
+MSG60314,SUB999999,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-03 03:21:00
+MSG60315,SUB101575,I want to know my current data balance for this month,Neutral,standard,2026-08-03 08:41:00
+MSG60316,SUB102066,I want to know my current data balance for this month,Neutral,standard,2026-08-04 09:16:00
+MSG60317,SUB102895,Can you explain the charges on my last invoice,Neutral,standard,2026-08-05 00:19:00
+MSG60318,SUB102943,Nothing about this service is good,Negative,hard,2026-08-01 17:42:00
+MSG60319,SUB100060,The app works well and my bill was finally correct this month,Positive,standard,2026-08-01 18:20:00
+MSG60320,SUB101468,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-05 20:25:00
+MSG60321,SUB102438,Call quality in Kolkata is unacceptable for what I am paying,Negative,standard,2026-08-04 19:08:00
+MSG60322,SUB101690,How do I transfer my number to a new SIM card,Neutral,standard,2026-08-04 21:09:00
+MSG60323,SUB102283,I want to know my current data balance for this month,Neutral,standard,2026-08-05 23:35:00
+MSG60324,SUB101945,"The network is terrible in Mumbai, my calls drop every single day",Negative,standard,2026-08-02 16:31:00
+MSG60325,SUB999999,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-04 00:04:00
+MSG60326,SUB999999,"My data finished far too fast, I am very disappointed with this plan",Negative,standard,2026-08-03 07:58:00
+MSG60327,SUB100936,"I love the new eSIM, activation was easy and quick",Positive,standard,2026-08-03 09:21:00
+MSG60328,SUB103168,"My data finished far too fast, I am very disappointed with this plan",Negative,standard,2026-08-02 07:38:00
+MSG60329,SUB101630,Call quality in Bengaluru is unacceptable for what I am paying,Negative,standard,2026-08-01 05:00:00
+MSG60330,SUB103012,What time does the store in Noida open on Sunday,Neutral,standard,2026-08-03 10:23:00
+MSG60331,SUB100215,"Excellent coverage on my trip to Bengaluru, very satisfied",Positive,standard,2026-08-01 22:41:00
+MSG60332,SUB101048,Call quality in Hyderabad is unacceptable for what I am paying,Negative,standard,2026-08-04 21:23:00
+MSG60333,SUB102486,"I am extremely frustrated, my SIM activation has failed twice now",Negative,standard,2026-08-02 04:34:00
+MSG60334,SUB101409,I have been overcharged again on my bill and nobody will explain why,Negative,standard,2026-08-03 16:17:00
+MSG60335,SUB100838,"My data finished far too fast, I am very disappointed with this plan",Negative,standard,2026-08-05 08:43:00
+MSG60336,SUB100940,"Best network I have used, thank you for the quick help",Positive,standard,2026-08-05 07:27:00
+MSG60337,SUB102440,"I love the new eSIM, activation was easy and quick",Positive,standard,2026-08-05 18:52:00
+MSG60338,SUB102050,"Slow internet, expensive plan, a terrible experience all round",Negative,standard,2026-08-03 06:09:00
+MSG60339,SUB101847,No internet for three days in Hyderabad and not one person helped me,Negative,standard,2026-08-05 00:32:00
+MSG60340,SUB101496,"Third complaint this month about the same billing error, still unresolved",Negative,standard,2026-08-05 14:53:00
+MSG60341,SUB100983,"I am extremely frustrated, my SIM activation has failed twice now",Negative,standard,2026-08-02 08:17:00
+MSG60342,SUB102168,"Fast internet at a fair price, I am really pleased",Positive,standard,2026-08-04 00:35:00
+MSG60343,SUB101883,Call quality in Mumbai is unacceptable for what I am paying,Negative,standard,2026-08-01 01:56:00
+MSG60344,SUB101716,"Fantastic experience, the festival offer was a great deal",Positive,standard,2026-08-03 11:31:00
+MSG60345,SUB103008,"Fantastic experience, the festival offer was a great deal",Positive,standard,2026-08-05 21:06:00
+MSG60346,SUB102714,No internet for three days in Mumbai and not one person helped me,Negative,standard,2026-08-05 05:58:00
+MSG60347,SUB102227,The app works well and my bill was finally correct this month,Positive,standard,2026-08-04 09:44:00
+MSG60348,SUB102083,"Best network I have used, thank you for the quick help",Positive,standard,2026-08-05 18:33:00
+MSG60349,SUB101151,Call quality in Bengaluru is unacceptable for what I am paying,Negative,standard,2026-08-03 20:38:00
+MSG60350,SUB100375,"I am extremely frustrated, my SIM activation has failed twice now",Negative,standard,2026-08-01 22:29:00
+MSG60351,SUB999999,"Worst service I have ever had, I waited two hours and got nothing",Negative,standard,2026-08-01 05:00:00
+MSG60352,SUB103172,"Great support today, the agent solved my problem in minutes",Positive,standard,2026-08-01 07:35:00
+MSG60353,SUB103042,"Fantastic experience, the festival offer was a great deal",Positive,standard,2026-08-02 11:17:00
