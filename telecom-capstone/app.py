@@ -1,3 +1,4 @@
+from pathlib import Path
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -16,9 +17,14 @@ st.set_page_config(
 st.title("📡 Telecom Network Analytics")
 st.caption("Track B · Network Quality and Revenue Optimisation")
 
+BASE_DIR = Path(__file__).resolve().parent
+
 @st.cache_data(show_spinner="Loading and preparing capstone datasets...")
 def get_data():
-    return prepare_all(data_dir="data", db_path="capstone_rt.db")
+    return prepare_all(
+        data_dir=BASE_DIR / "data",
+        db_path=BASE_DIR / "capstone_rt.db"
+    )
 
 try:
     data = get_data()
@@ -26,6 +32,17 @@ except Exception as exc:
     st.error(f"Could not load the project data: {exc}")
     st.info("Check that all four CSV files are inside the data/ folder and that their column names match the capstone files.")
     st.stop()
+
+# @st.cache_data(show_spinner="Loading and preparing capstone datasets...")
+# def get_data():
+#     return prepare_all(data_dir="data", db_path="capstone_rt.db")
+
+# try:
+#     data = get_data()
+# except Exception as exc:
+#     st.error(f"Could not load the project data: {exc}")
+#     st.info("Check that all four CSV files are inside the data/ folder and that their column names match the capstone files.")
+#     st.stop()
 
 pages = [
     "Executive Overview",

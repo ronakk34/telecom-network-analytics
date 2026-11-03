@@ -1,1 +1,0 @@
-Copy the four capstone CSV files into this folder.
